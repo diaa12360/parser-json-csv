@@ -1,0 +1,4707 @@
+[
+  {
+    "Country": "Sao Tome and Principe",
+    "Date": "2007-02-01",
+    "Number of international students": 3366
+  },
+  {
+    "Country": "Samoa",
+    "Date": "2022-09-27",
+    "Number of international students": 1402
+  },
+  {
+    "Country": "Benin",
+    "Date": "2012-01-17",
+    "Number of international students": 7568
+  },
+  {
+    "Country": "Israel",
+    "Date": "2010-06-16",
+    "Number of international students": 5383
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "Date": "2018-12-02",
+    "Number of international students": 5972
+  },
+  {
+    "Country": "Burundi",
+    "Date": "2022-08-07",
+    "Number of international students": 7536
+  },
+  {
+    "Country": "Sudan",
+    "Date": "2005-07-05",
+    "Number of international students": 7807
+  },
+  {
+    "Country": "Bhutan",
+    "Date": "2042-04-12",
+    "Number of international students": 7787
+  },
+  {
+    "Country": "Mali",
+    "Date": "2020-07-12",
+    "Number of international students": 155
+  },
+  {
+    "Country": "Spain",
+    "Date": "2010-06-09",
+    "Number of international students": 4269
+  },
+  {
+    "Country": "Hong Kong",
+    "Date": "2009-10-13",
+    "Number of international students": 3258
+  },
+  {
+    "Country": "Czech Republic",
+    "Date": "2031-07-22",
+    "Number of international students": 7655
+  },
+  {
+    "Country": "Benin",
+    "Date": "2015-06-30",
+    "Number of international students": 1566
+  },
+  {
+    "Country": "Japan",
+    "Date": "2035-09-26",
+    "Number of international students": 4537
+  },
+  {
+    "Country": "China",
+    "Date": "2002-08-19",
+    "Number of international students": 7837
+  },
+  {
+    "Country": "Myanmar",
+    "Date": "2030-03-09",
+    "Number of international students": 7583
+  },
+  {
+    "Country": "Bangladesh",
+    "Date": "2010-04-09",
+    "Number of international students": 2986
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Date": "2042-01-08",
+    "Number of international students": 2453
+  },
+  {
+    "Country": "Netherlands",
+    "Date": "2008-01-25",
+    "Number of international students": 1678
+  },
+  {
+    "Country": "Portugal",
+    "Date": "2001-02-25",
+    "Number of international students": 1986
+  },
+  {
+    "Country": "Portugal",
+    "Date": "2028-08-16",
+    "Number of international students": 5942
+  },
+  {
+    "Country": "Estonia",
+    "Date": "2001-08-27",
+    "Number of international students": 3384
+  },
+  {
+    "Country": "Spain",
+    "Date": "2015-11-26",
+    "Number of international students": 167
+  },
+  {
+    "Country": "South Georgia and the South Sandwich Islands",
+    "Date": "2012-02-09",
+    "Number of international students": 3333
+  },
+  {
+    "Country": "Mali",
+    "Date": "2046-12-17",
+    "Number of international students": 2366
+  },
+  {
+    "Country": "Madagascar",
+    "Date": "2034-07-02",
+    "Number of international students": 2740
+  },
+  {
+    "Country": "Panama",
+    "Date": "2038-12-22",
+    "Number of international students": 2090
+  },
+  {
+    "Country": "Qatar",
+    "Date": "2041-09-14",
+    "Number of international students": 1179
+  },
+  {
+    "Country": "Marshall Islands",
+    "Date": "2013-04-27",
+    "Number of international students": 5986
+  },
+  {
+    "Country": "Belize",
+    "Date": "2043-05-25",
+    "Number of international students": 3888
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Date": "2034-10-20",
+    "Number of international students": 401
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Date": "2000-09-13",
+    "Number of international students": 5020
+  },
+  {
+    "Country": "Niger",
+    "Date": "2018-10-15",
+    "Number of international students": 7738
+  },
+  {
+    "Country": "Ghana",
+    "Date": "2027-10-04",
+    "Number of international students": 3580
+  },
+  {
+    "Country": "Poland",
+    "Date": "2012-07-17",
+    "Number of international students": 7583
+  },
+  {
+    "Country": "Liechtenstein",
+    "Date": "2007-10-15",
+    "Number of international students": 1413
+  },
+  {
+    "Country": "Svalbard and Jan Mayen",
+    "Date": "2037-08-26",
+    "Number of international students": 5505
+  },
+  {
+    "Country": "Cambodia",
+    "Date": "2042-09-30",
+    "Number of international students": 7864
+  },
+  {
+    "Country": "Gabon",
+    "Date": "2038-11-07",
+    "Number of international students": 6553
+  },
+  {
+    "Country": "Bhutan",
+    "Date": "2026-01-02",
+    "Number of international students": 5256
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "Date": "2047-01-09",
+    "Number of international students": 4193
+  },
+  {
+    "Country": "France",
+    "Date": "2010-03-14",
+    "Number of international students": 415
+  },
+  {
+    "Country": "Grenada",
+    "Date": "2007-04-13",
+    "Number of international students": 7169
+  },
+  {
+    "Country": "Mauritania",
+    "Date": "2025-03-14",
+    "Number of international students": 3418
+  },
+  {
+    "Country": "Bahamas",
+    "Date": "2034-04-03",
+    "Number of international students": 5980
+  },
+  {
+    "Country": "Jersey",
+    "Date": "2011-09-13",
+    "Number of international students": 1107
+  },
+  {
+    "Country": "Swaziland",
+    "Date": "2035-03-18",
+    "Number of international students": 7547
+  },
+  {
+    "Country": "South Georgia and the South Sandwich Islands",
+    "Date": "2009-07-27",
+    "Number of international students": 6037
+  },
+  {
+    "Country": "Hungary",
+    "Date": "2039-07-16",
+    "Number of international students": 7536
+  },
+  {
+    "Country": "Swaziland",
+    "Date": "2037-10-16",
+    "Number of international students": 4383
+  },
+  {
+    "Country": "Niue",
+    "Date": "2006-08-10",
+    "Number of international students": 5238
+  },
+  {
+    "Country": "Australia",
+    "Date": "2037-11-15",
+    "Number of international students": 5501
+  },
+  {
+    "Country": "Romania",
+    "Date": "2046-10-31",
+    "Number of international students": 162
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Date": "2002-07-14",
+    "Number of international students": 976
+  },
+  {
+    "Country": "Burundi",
+    "Date": "2029-10-25",
+    "Number of international students": 1402
+  },
+  {
+    "Country": "Mali",
+    "Date": "2003-08-11",
+    "Number of international students": 3515
+  },
+  {
+    "Country": "Argentina",
+    "Date": "2042-07-15",
+    "Number of international students": 1238
+  },
+  {
+    "Country": "Maldives",
+    "Date": "2029-06-27",
+    "Number of international students": 557
+  },
+  {
+    "Country": "Australia",
+    "Date": "2025-08-24",
+    "Number of international students": 2930
+  },
+  {
+    "Country": "Ethiopia",
+    "Date": "2025-07-05",
+    "Number of international students": 1288
+  },
+  {
+    "Country": "Djibouti",
+    "Date": "2003-03-26",
+    "Number of international students": 5745
+  },
+  {
+    "Country": "Bulgaria",
+    "Date": "2019-08-18",
+    "Number of international students": 3483
+  },
+  {
+    "Country": "Uruguay",
+    "Date": "2011-12-27",
+    "Number of international students": 6714
+  },
+  {
+    "Country": "Kenya",
+    "Date": "2003-09-17",
+    "Number of international students": 1775
+  },
+  {
+    "Country": "Guam",
+    "Date": "2000-08-20",
+    "Number of international students": 1021
+  },
+  {
+    "Country": "French Guiana",
+    "Date": "2014-09-16",
+    "Number of international students": 4362
+  },
+  {
+    "Country": "Belarus",
+    "Date": "2026-06-22",
+    "Number of international students": 4941
+  },
+  {
+    "Country": "Greece",
+    "Date": "2015-10-05",
+    "Number of international students": 802
+  },
+  {
+    "Country": "Hungary",
+    "Date": "2037-08-12",
+    "Number of international students": 6964
+  },
+  {
+    "Country": "Marshall Islands",
+    "Date": "2033-10-23",
+    "Number of international students": 4466
+  },
+  {
+    "Country": "Norfolk Island",
+    "Date": "2048-03-06",
+    "Number of international students": 6184
+  },
+  {
+    "Country": "Viet Nam",
+    "Date": "2044-07-04",
+    "Number of international students": 2429
+  },
+  {
+    "Country": "Lesotho",
+    "Date": "2017-12-06",
+    "Number of international students": 7875
+  },
+  {
+    "Country": "New Caledonia",
+    "Date": "2028-07-07",
+    "Number of international students": 5941
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Date": "2019-08-29",
+    "Number of international students": 2114
+  },
+  {
+    "Country": "United States Minor Outlying Islands",
+    "Date": "2005-01-08",
+    "Number of international students": 4938
+  },
+  {
+    "Country": "French Polynesia",
+    "Date": "2010-10-14",
+    "Number of international students": 578
+  },
+  {
+    "Country": "Guadeloupe",
+    "Date": "2043-12-05",
+    "Number of international students": 7316
+  },
+  {
+    "Country": "United States Minor Outlying Islands",
+    "Date": "2031-07-27",
+    "Number of international students": 4119
+  },
+  {
+    "Country": "Luxembourg",
+    "Date": "2042-11-13",
+    "Number of international students": 7943
+  },
+  {
+    "Country": "Namibia",
+    "Date": "2007-02-17",
+    "Number of international students": 6643
+  },
+  {
+    "Country": "Cuba",
+    "Date": "2032-09-26",
+    "Number of international students": 147
+  },
+  {
+    "Country": "Serbia and Montenegro",
+    "Date": "2039-02-24",
+    "Number of international students": 6597
+  },
+  {
+    "Country": "Switzerland",
+    "Date": "2032-09-21",
+    "Number of international students": 6457
+  },
+  {
+    "Country": "United States Minor Outlying Islands",
+    "Date": "2049-11-30",
+    "Number of international students": 7896
+  },
+  {
+    "Country": "Morocco",
+    "Date": "2032-02-07",
+    "Number of international students": 4185
+  },
+  {
+    "Country": "Belgium",
+    "Date": "2038-10-11",
+    "Number of international students": 7935
+  },
+  {
+    "Country": "Saint Helena",
+    "Date": "2044-05-09",
+    "Number of international students": 4914
+  },
+  {
+    "Country": "Yemen",
+    "Date": "2033-08-24",
+    "Number of international students": 3334
+  },
+  {
+    "Country": "Saint Helena",
+    "Date": "2008-02-24",
+    "Number of international students": 7672
+  },
+  {
+    "Country": "Solomon Islands",
+    "Date": "2034-11-24",
+    "Number of international students": 4326
+  },
+  {
+    "Country": "Israel",
+    "Date": "2016-04-09",
+    "Number of international students": 4691
+  },
+  {
+    "Country": "Hungary",
+    "Date": "2008-05-01",
+    "Number of international students": 5458
+  },
+  {
+    "Country": "Djibouti",
+    "Date": "2030-09-08",
+    "Number of international students": 318
+  },
+  {
+    "Country": "French Polynesia",
+    "Date": "2016-12-24",
+    "Number of international students": 4811
+  },
+  {
+    "Country": "Mauritius",
+    "Date": "2010-07-06",
+    "Number of international students": 373
+  },
+  {
+    "Country": "Myanmar",
+    "Date": "2018-02-13",
+    "Number of international students": 3836
+  },
+  {
+    "Country": "Chile",
+    "Date": "2011-06-10",
+    "Number of international students": 4168
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "Date": "2023-04-08",
+    "Number of international students": 6197
+  },
+  {
+    "Country": "Marshall Islands",
+    "Date": "2011-05-05",
+    "Number of international students": 4990
+  },
+  {
+    "Country": "Hong Kong",
+    "Date": "2036-08-03",
+    "Number of international students": 2905
+  },
+  {
+    "Country": "Malawi",
+    "Date": "2001-06-25",
+    "Number of international students": 619
+  },
+  {
+    "Country": "Iceland",
+    "Date": "2022-01-16",
+    "Number of international students": 7909
+  },
+  {
+    "Country": "Kuwait",
+    "Date": "2006-12-23",
+    "Number of international students": 1097
+  },
+  {
+    "Country": "Botswana",
+    "Date": "2044-06-13",
+    "Number of international students": 4011
+  },
+  {
+    "Country": "Macao",
+    "Date": "2016-08-09",
+    "Number of international students": 6639
+  },
+  {
+    "Country": "Liberia",
+    "Date": "2033-05-06",
+    "Number of international students": 3685
+  },
+  {
+    "Country": "Zimbabwe",
+    "Date": "2026-06-06",
+    "Number of international students": 6076
+  },
+  {
+    "Country": "Gibraltar",
+    "Date": "2022-04-15",
+    "Number of international students": 2678
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2030-07-30",
+    "Number of international students": 3328
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "Date": "2016-11-24",
+    "Number of international students": 2407
+  },
+  {
+    "Country": "San Marino",
+    "Date": "2020-10-20",
+    "Number of international students": 2208
+  },
+  {
+    "Country": "Ecuador",
+    "Date": "2018-10-26",
+    "Number of international students": 5224
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Date": "2026-10-29",
+    "Number of international students": 6635
+  },
+  {
+    "Country": "Qatar",
+    "Date": "2039-09-09",
+    "Number of international students": 3782
+  },
+  {
+    "Country": "Ghana",
+    "Date": "2002-12-05",
+    "Number of international students": 4232
+  },
+  {
+    "Country": "Australia",
+    "Date": "2043-09-19",
+    "Number of international students": 4413
+  },
+  {
+    "Country": "Costa Rica",
+    "Date": "2009-10-13",
+    "Number of international students": 2291
+  },
+  {
+    "Country": "Uzbekistan",
+    "Date": "2011-06-29",
+    "Number of international students": 5568
+  },
+  {
+    "Country": "San Marino",
+    "Date": "2014-10-13",
+    "Number of international students": 7556
+  },
+  {
+    "Country": "Greece",
+    "Date": "2034-09-23",
+    "Number of international students": 6125
+  },
+  {
+    "Country": "Netherlands",
+    "Date": "2011-10-06",
+    "Number of international students": 1422
+  },
+  {
+    "Country": "Guernsey",
+    "Date": "2031-10-08",
+    "Number of international students": 3661
+  },
+  {
+    "Country": "Isle of Man",
+    "Date": "2032-12-28",
+    "Number of international students": 1431
+  },
+  {
+    "Country": "Saint Helena",
+    "Date": "2033-06-09",
+    "Number of international students": 753
+  },
+  {
+    "Country": "Uganda",
+    "Date": "2020-09-10",
+    "Number of international students": 7137
+  },
+  {
+    "Country": "Thailand",
+    "Date": "2019-11-29",
+    "Number of international students": 6751
+  },
+  {
+    "Country": "Liechtenstein",
+    "Date": "2000-11-29",
+    "Number of international students": 968
+  },
+  {
+    "Country": "Sweden",
+    "Date": "2032-03-09",
+    "Number of international students": 1952
+  },
+  {
+    "Country": "Armenia",
+    "Date": "2023-03-25",
+    "Number of international students": 6558
+  },
+  {
+    "Country": "Israel",
+    "Date": "2016-05-07",
+    "Number of international students": 4111
+  },
+  {
+    "Country": "Ethiopia",
+    "Date": "2012-08-31",
+    "Number of international students": 2524
+  },
+  {
+    "Country": "El Salvador",
+    "Date": "2046-11-12",
+    "Number of international students": 4315
+  },
+  {
+    "Country": "Togo",
+    "Date": "2037-02-07",
+    "Number of international students": 3298
+  },
+  {
+    "Country": "Gabon",
+    "Date": "2047-11-18",
+    "Number of international students": 2629
+  },
+  {
+    "Country": "United States",
+    "Date": "2032-11-11",
+    "Number of international students": 3529
+  },
+  {
+    "Country": "Greece",
+    "Date": "2026-10-05",
+    "Number of international students": 2859
+  },
+  {
+    "Country": "Bouvet Island",
+    "Date": "2002-06-04",
+    "Number of international students": 721
+  },
+  {
+    "Country": "Dominica",
+    "Date": "2019-03-03",
+    "Number of international students": 4153
+  },
+  {
+    "Country": "Guam",
+    "Date": "2040-04-01",
+    "Number of international students": 513
+  },
+  {
+    "Country": "Oman",
+    "Date": "2024-07-24",
+    "Number of international students": 5955
+  },
+  {
+    "Country": "Tuvalu",
+    "Date": "2008-01-07",
+    "Number of international students": 7452
+  },
+  {
+    "Country": "Bouvet Island",
+    "Date": "2025-09-18",
+    "Number of international students": 3834
+  },
+  {
+    "Country": "Malta",
+    "Date": "2004-05-02",
+    "Number of international students": 2650
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "Date": "2024-07-22",
+    "Number of international students": 224
+  },
+  {
+    "Country": "Sierra Leone",
+    "Date": "2029-07-26",
+    "Number of international students": 1506
+  },
+  {
+    "Country": "Guernsey",
+    "Date": "2004-09-19",
+    "Number of international students": 229
+  },
+  {
+    "Country": "Aruba",
+    "Date": "2046-06-18",
+    "Number of international students": 2573
+  },
+  {
+    "Country": "Israel",
+    "Date": "2046-11-27",
+    "Number of international students": 4815
+  },
+  {
+    "Country": "Ecuador",
+    "Date": "2048-09-03",
+    "Number of international students": 7443
+  },
+  {
+    "Country": "Bolivia",
+    "Date": "2012-04-27",
+    "Number of international students": 1896
+  },
+  {
+    "Country": "Tunisia",
+    "Date": "2037-05-18",
+    "Number of international students": 2664
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Date": "2022-07-14",
+    "Number of international students": 7090
+  },
+  {
+    "Country": "Egypt",
+    "Date": "2024-05-09",
+    "Number of international students": 1158
+  },
+  {
+    "Country": "Iraq",
+    "Date": "2042-07-06",
+    "Number of international students": 4737
+  },
+  {
+    "Country": "Afghanistan",
+    "Date": "2023-01-03",
+    "Number of international students": 487
+  },
+  {
+    "Country": "Italy",
+    "Date": "2002-08-01",
+    "Number of international students": 7075
+  },
+  {
+    "Country": "Togo",
+    "Date": "2030-04-18",
+    "Number of international students": 3054
+  },
+  {
+    "Country": "Christmas Island",
+    "Date": "2000-02-17",
+    "Number of international students": 5214
+  },
+  {
+    "Country": "Paraguay",
+    "Date": "2027-01-08",
+    "Number of international students": 1861
+  },
+  {
+    "Country": "Madagascar",
+    "Date": "2019-07-08",
+    "Number of international students": 4901
+  },
+  {
+    "Country": "Mexico",
+    "Date": "2041-12-27",
+    "Number of international students": 6075
+  },
+  {
+    "Country": "Liberia",
+    "Date": "2041-08-22",
+    "Number of international students": 1319
+  },
+  {
+    "Country": "Jamaica",
+    "Date": "2041-10-24",
+    "Number of international students": 4025
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "Date": "2045-06-21",
+    "Number of international students": 934
+  },
+  {
+    "Country": "Kazakhstan",
+    "Date": "2006-03-25",
+    "Number of international students": 4104
+  },
+  {
+    "Country": "Serbia and Montenegro",
+    "Date": "2036-07-14",
+    "Number of international students": 7698
+  },
+  {
+    "Country": "Colombia",
+    "Date": "2012-01-13",
+    "Number of international students": 3207
+  },
+  {
+    "Country": "New Caledonia",
+    "Date": "2027-10-04",
+    "Number of international students": 3216
+  },
+  {
+    "Country": "Zimbabwe",
+    "Date": "2003-03-19",
+    "Number of international students": 6822
+  },
+  {
+    "Country": "Panama",
+    "Date": "2029-05-28",
+    "Number of international students": 2530
+  },
+  {
+    "Country": "Congo",
+    "Date": "2042-08-02",
+    "Number of international students": 1844
+  },
+  {
+    "Country": "Uzbekistan",
+    "Date": "2039-10-10",
+    "Number of international students": 763
+  },
+  {
+    "Country": "Cuba",
+    "Date": "2042-01-26",
+    "Number of international students": 4646
+  },
+  {
+    "Country": "Greece",
+    "Date": "2046-02-15",
+    "Number of international students": 3146
+  },
+  {
+    "Country": "Malta",
+    "Date": "2033-02-08",
+    "Number of international students": 7070
+  },
+  {
+    "Country": "Belarus",
+    "Date": "2019-03-16",
+    "Number of international students": 2690
+  },
+  {
+    "Country": "American Samoa",
+    "Date": "2045-12-24",
+    "Number of international students": 3740
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Date": "2030-11-04",
+    "Number of international students": 2786
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Date": "2049-02-28",
+    "Number of international students": 7862
+  },
+  {
+    "Country": "Bouvet Island",
+    "Date": "2046-01-08",
+    "Number of international students": 3609
+  },
+  {
+    "Country": "AndorrA",
+    "Date": "2011-07-30",
+    "Number of international students": 7380
+  },
+  {
+    "Country": "Botswana",
+    "Date": "2007-07-29",
+    "Number of international students": 2856
+  },
+  {
+    "Country": "Ukraine",
+    "Date": "2041-12-04",
+    "Number of international students": 5389
+  },
+  {
+    "Country": "Vanuatu",
+    "Date": "2040-10-15",
+    "Number of international students": 2652
+  },
+  {
+    "Country": "Kenya",
+    "Date": "2010-02-09",
+    "Number of international students": 6585
+  },
+  {
+    "Country": "Bahrain",
+    "Date": "2019-09-06",
+    "Number of international students": 2363
+  },
+  {
+    "Country": "Mayotte",
+    "Date": "2018-05-31",
+    "Number of international students": 452
+  },
+  {
+    "Country": "Niger",
+    "Date": "2035-01-19",
+    "Number of international students": 474
+  },
+  {
+    "Country": "Kuwait",
+    "Date": "2023-02-23",
+    "Number of international students": 665
+  },
+  {
+    "Country": "Congo",
+    "Date": "2027-09-05",
+    "Number of international students": 2371
+  },
+  {
+    "Country": "Comoros",
+    "Date": "2013-01-23",
+    "Number of international students": 3535
+  },
+  {
+    "Country": "Venezuela",
+    "Date": "2037-04-15",
+    "Number of international students": 4713
+  },
+  {
+    "Country": "Bolivia",
+    "Date": "2038-07-07",
+    "Number of international students": 1477
+  },
+  {
+    "Country": "RWANDA",
+    "Date": "2001-01-15",
+    "Number of international students": 6095
+  },
+  {
+    "Country": "Jersey",
+    "Date": "2007-02-11",
+    "Number of international students": 5654
+  },
+  {
+    "Country": "Bolivia",
+    "Date": "2042-03-27",
+    "Number of international students": 6461
+  },
+  {
+    "Country": "Honduras",
+    "Date": "2027-11-30",
+    "Number of international students": 4201
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "Date": "2047-06-01",
+    "Number of international students": 132
+  },
+  {
+    "Country": "Ireland",
+    "Date": "2024-08-18",
+    "Number of international students": 3023
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Date": "2047-04-27",
+    "Number of international students": 67
+  },
+  {
+    "Country": "Liberia",
+    "Date": "2030-08-14",
+    "Number of international students": 469
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Date": "2001-07-30",
+    "Number of international students": 6321
+  },
+  {
+    "Country": "Malaysia",
+    "Date": "2018-12-05",
+    "Number of international students": 7179
+  },
+  {
+    "Country": "Niger",
+    "Date": "2000-11-30",
+    "Number of international students": 5475
+  },
+  {
+    "Country": "American Samoa",
+    "Date": "2023-06-12",
+    "Number of international students": 1621
+  },
+  {
+    "Country": "Singapore",
+    "Date": "2031-04-06",
+    "Number of international students": 4894
+  },
+  {
+    "Country": "Libyan Arab Jamahiriya",
+    "Date": "2020-03-15",
+    "Number of international students": 3250
+  },
+  {
+    "Country": "Armenia",
+    "Date": "2016-05-29",
+    "Number of international students": 4351
+  },
+  {
+    "Country": "Haiti",
+    "Date": "2020-12-17",
+    "Number of international students": 4920
+  },
+  {
+    "Country": "Bahamas",
+    "Date": "2027-10-24",
+    "Number of international students": 1752
+  },
+  {
+    "Country": "Guernsey",
+    "Date": "2037-07-04",
+    "Number of international students": 7219
+  },
+  {
+    "Country": "British Indian Ocean Territory",
+    "Date": "2033-11-16",
+    "Number of international students": 3036
+  },
+  {
+    "Country": "Saint Lucia",
+    "Date": "2005-01-22",
+    "Number of international students": 2772
+  },
+  {
+    "Country": "Cocos (Keeling) Islands",
+    "Date": "2038-04-04",
+    "Number of international students": 6938
+  },
+  {
+    "Country": "Greece",
+    "Date": "2011-01-06",
+    "Number of international students": 1401
+  },
+  {
+    "Country": "Saint Lucia",
+    "Date": "2014-01-08",
+    "Number of international students": 1836
+  },
+  {
+    "Country": "United Kingdom",
+    "Date": "2032-04-02",
+    "Number of international students": 4363
+  },
+  {
+    "Country": "Cote D\"Ivoire",
+    "Date": "2039-05-30",
+    "Number of international students": 3631
+  },
+  {
+    "Country": "Pakistan",
+    "Date": "2046-03-19",
+    "Number of international students": 2959
+  },
+  {
+    "Country": "South Africa",
+    "Date": "2043-06-27",
+    "Number of international students": 6706
+  },
+  {
+    "Country": "Botswana",
+    "Date": "2001-02-12",
+    "Number of international students": 4050
+  },
+  {
+    "Country": "Bulgaria",
+    "Date": "2007-07-20",
+    "Number of international students": 987
+  },
+  {
+    "Country": "Ireland",
+    "Date": "2001-02-05",
+    "Number of international students": 7768
+  },
+  {
+    "Country": "French Southern Territories",
+    "Date": "2019-08-29",
+    "Number of international students": 2304
+  },
+  {
+    "Country": "Antarctica",
+    "Date": "2010-12-18",
+    "Number of international students": 4194
+  },
+  {
+    "Country": "Swaziland",
+    "Date": "2046-12-05",
+    "Number of international students": 6392
+  },
+  {
+    "Country": "Denmark",
+    "Date": "2018-08-09",
+    "Number of international students": 7296
+  },
+  {
+    "Country": "Bhutan",
+    "Date": "2013-03-27",
+    "Number of international students": 7720
+  },
+  {
+    "Country": "Djibouti",
+    "Date": "2022-08-21",
+    "Number of international students": 6693
+  },
+  {
+    "Country": "El Salvador",
+    "Date": "2029-03-03",
+    "Number of international students": 7711
+  },
+  {
+    "Country": "United States",
+    "Date": "2015-09-06",
+    "Number of international students": 420
+  },
+  {
+    "Country": "Germany",
+    "Date": "2016-08-27",
+    "Number of international students": 5841
+  },
+  {
+    "Country": "Nauru",
+    "Date": "2002-05-29",
+    "Number of international students": 2565
+  },
+  {
+    "Country": "Norway",
+    "Date": "2021-08-20",
+    "Number of international students": 2245
+  },
+  {
+    "Country": "Djibouti",
+    "Date": "2025-04-12",
+    "Number of international students": 2058
+  },
+  {
+    "Country": "Solomon Islands",
+    "Date": "2009-12-07",
+    "Number of international students": 3570
+  },
+  {
+    "Country": "Norfolk Island",
+    "Date": "2008-02-28",
+    "Number of international students": 3435
+  },
+  {
+    "Country": "Eritrea",
+    "Date": "2003-08-23",
+    "Number of international students": 6166
+  },
+  {
+    "Country": "Croatia",
+    "Date": "2007-09-18",
+    "Number of international students": 2353
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Date": "2006-05-07",
+    "Number of international students": 1320
+  },
+  {
+    "Country": "Portugal",
+    "Date": "2036-04-09",
+    "Number of international students": 1283
+  },
+  {
+    "Country": "Suriname",
+    "Date": "2019-02-20",
+    "Number of international students": 580
+  },
+  {
+    "Country": "Bahamas",
+    "Date": "2010-06-13",
+    "Number of international students": 7194
+  },
+  {
+    "Country": "Guatemala",
+    "Date": "2006-07-09",
+    "Number of international students": 2843
+  },
+  {
+    "Country": "Niue",
+    "Date": "2021-07-01",
+    "Number of international students": 4660
+  },
+  {
+    "Country": "South Africa",
+    "Date": "2016-03-01",
+    "Number of international students": 5346
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Date": "2028-06-26",
+    "Number of international students": 2474
+  },
+  {
+    "Country": "Slovenia",
+    "Date": "2007-06-02",
+    "Number of international students": 6971
+  },
+  {
+    "Country": "Kiribati",
+    "Date": "2002-01-17",
+    "Number of international students": 7574
+  },
+  {
+    "Country": "Luxembourg",
+    "Date": "2039-02-24",
+    "Number of international students": 4303
+  },
+  {
+    "Country": "Turkmenistan",
+    "Date": "2007-01-24",
+    "Number of international students": 5451
+  },
+  {
+    "Country": "Hungary",
+    "Date": "2023-11-26",
+    "Number of international students": 4482
+  },
+  {
+    "Country": "Tuvalu",
+    "Date": "2036-12-12",
+    "Number of international students": 5117
+  },
+  {
+    "Country": "Latvia",
+    "Date": "2035-11-19",
+    "Number of international students": 1299
+  },
+  {
+    "Country": "Myanmar",
+    "Date": "2036-09-21",
+    "Number of international students": 2271
+  },
+  {
+    "Country": "Gambia",
+    "Date": "2032-10-26",
+    "Number of international students": 4598
+  },
+  {
+    "Country": "Ecuador",
+    "Date": "2024-03-06",
+    "Number of international students": 7217
+  },
+  {
+    "Country": "Tuvalu",
+    "Date": "2026-06-26",
+    "Number of international students": 5442
+  },
+  {
+    "Country": "Mali",
+    "Date": "2031-11-04",
+    "Number of international students": 636
+  },
+  {
+    "Country": "Canada",
+    "Date": "2034-05-27",
+    "Number of international students": 3986
+  },
+  {
+    "Country": "Anguilla",
+    "Date": "2032-01-28",
+    "Number of international students": 7980
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Date": "2023-12-26",
+    "Number of international students": 4730
+  },
+  {
+    "Country": "Benin",
+    "Date": "2035-05-17",
+    "Number of international students": 2905
+  },
+  {
+    "Country": "Lithuania",
+    "Date": "2044-11-08",
+    "Number of international students": 6608
+  },
+  {
+    "Country": "Ecuador",
+    "Date": "2035-05-06",
+    "Number of international students": 1834
+  },
+  {
+    "Country": "Bangladesh",
+    "Date": "2015-06-23",
+    "Number of international students": 1198
+  },
+  {
+    "Country": "Gibraltar",
+    "Date": "2033-01-24",
+    "Number of international students": 3743
+  },
+  {
+    "Country": "Algeria",
+    "Date": "2020-09-20",
+    "Number of international students": 4183
+  },
+  {
+    "Country": "Mongolia",
+    "Date": "2022-04-22",
+    "Number of international students": 5586
+  },
+  {
+    "Country": "Svalbard and Jan Mayen",
+    "Date": "2034-06-16",
+    "Number of international students": 6841
+  },
+  {
+    "Country": "Slovakia",
+    "Date": "2037-03-26",
+    "Number of international students": 4218
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2024-04-18",
+    "Number of international students": 3604
+  },
+  {
+    "Country": "Hong Kong",
+    "Date": "2042-07-03",
+    "Number of international students": 2107
+  },
+  {
+    "Country": "Kiribati",
+    "Date": "2048-09-30",
+    "Number of international students": 4125
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2020-02-06",
+    "Number of international students": 7669
+  },
+  {
+    "Country": "Turkmenistan",
+    "Date": "2037-06-28",
+    "Number of international students": 940
+  },
+  {
+    "Country": "Dominican Republic",
+    "Date": "2008-12-25",
+    "Number of international students": 684
+  },
+  {
+    "Country": "Slovenia",
+    "Date": "2037-09-07",
+    "Number of international students": 1255
+  },
+  {
+    "Country": "Palau",
+    "Date": "2044-06-24",
+    "Number of international students": 1411
+  },
+  {
+    "Country": "Tunisia",
+    "Date": "2018-10-13",
+    "Number of international students": 4742
+  },
+  {
+    "Country": "Niger",
+    "Date": "2031-06-16",
+    "Number of international students": 3859
+  },
+  {
+    "Country": "Togo",
+    "Date": "2027-12-12",
+    "Number of international students": 6327
+  },
+  {
+    "Country": "Austria",
+    "Date": "2008-07-31",
+    "Number of international students": 1585
+  },
+  {
+    "Country": "Cote D\"Ivoire",
+    "Date": "2028-09-03",
+    "Number of international students": 7259
+  },
+  {
+    "Country": "French Southern Territories",
+    "Date": "2036-06-13",
+    "Number of international students": 2482
+  },
+  {
+    "Country": "Hungary",
+    "Date": "2025-12-08",
+    "Number of international students": 4640
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "Date": "2036-03-19",
+    "Number of international students": 5804
+  },
+  {
+    "Country": "Iraq",
+    "Date": "2018-01-28",
+    "Number of international students": 729
+  },
+  {
+    "Country": "RWANDA",
+    "Date": "2026-09-14",
+    "Number of international students": 5540
+  },
+  {
+    "Country": "Sudan",
+    "Date": "2036-04-19",
+    "Number of international students": 5517
+  },
+  {
+    "Country": "Colombia",
+    "Date": "2034-07-15",
+    "Number of international students": 6353
+  },
+  {
+    "Country": "Guadeloupe",
+    "Date": "2019-01-29",
+    "Number of international students": 3744
+  },
+  {
+    "Country": "Lesotho",
+    "Date": "2017-05-14",
+    "Number of international students": 4841
+  },
+  {
+    "Country": "Morocco",
+    "Date": "2049-12-08",
+    "Number of international students": 6892
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "Date": "2027-01-03",
+    "Number of international students": 5716
+  },
+  {
+    "Country": "Burkina Faso",
+    "Date": "2007-11-27",
+    "Number of international students": 539
+  },
+  {
+    "Country": "Samoa",
+    "Date": "2044-07-14",
+    "Number of international students": 7558
+  },
+  {
+    "Country": "Serbia and Montenegro",
+    "Date": "2045-07-04",
+    "Number of international students": 3477
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Date": "2038-12-09",
+    "Number of international students": 2676
+  },
+  {
+    "Country": "Greece",
+    "Date": "2015-03-05",
+    "Number of international students": 6443
+  },
+  {
+    "Country": "Solomon Islands",
+    "Date": "2038-02-21",
+    "Number of international students": 1894
+  },
+  {
+    "Country": "Bouvet Island",
+    "Date": "2033-05-01",
+    "Number of international students": 5670
+  },
+  {
+    "Country": "Greenland",
+    "Date": "2001-08-01",
+    "Number of international students": 1596
+  },
+  {
+    "Country": "Guyana",
+    "Date": "2027-08-19",
+    "Number of international students": 6168
+  },
+  {
+    "Country": "Mexico",
+    "Date": "2010-11-19",
+    "Number of international students": 4270
+  },
+  {
+    "Country": "Mongolia",
+    "Date": "2029-12-26",
+    "Number of international students": 5356
+  },
+  {
+    "Country": "Mayotte",
+    "Date": "2006-09-08",
+    "Number of international students": 3103
+  },
+  {
+    "Country": "Bouvet Island",
+    "Date": "2036-12-19",
+    "Number of international students": 6748
+  },
+  {
+    "Country": "Sri Lanka",
+    "Date": "2040-05-05",
+    "Number of international students": 2383
+  },
+  {
+    "Country": "Jersey",
+    "Date": "2021-05-19",
+    "Number of international students": 433
+  },
+  {
+    "Country": "Mauritania",
+    "Date": "2042-01-29",
+    "Number of international students": 7400
+  },
+  {
+    "Country": "Slovenia",
+    "Date": "2042-02-25",
+    "Number of international students": 5253
+  },
+  {
+    "Country": "Seychelles",
+    "Date": "2015-09-26",
+    "Number of international students": 5604
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Date": "2043-11-19",
+    "Number of international students": 1487
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Date": "2008-01-12",
+    "Number of international students": 1323
+  },
+  {
+    "Country": "Viet Nam",
+    "Date": "2017-11-23",
+    "Number of international students": 6958
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Date": "2022-07-24",
+    "Number of international students": 5628
+  },
+  {
+    "Country": "Algeria",
+    "Date": "2032-04-27",
+    "Number of international students": 4034
+  },
+  {
+    "Country": "Antarctica",
+    "Date": "2024-05-03",
+    "Number of international students": 7849
+  },
+  {
+    "Country": "Luxembourg",
+    "Date": "2001-12-14",
+    "Number of international students": 2679
+  },
+  {
+    "Country": "Ecuador",
+    "Date": "2006-08-25",
+    "Number of international students": 5755
+  },
+  {
+    "Country": "Suriname",
+    "Date": "2001-03-04",
+    "Number of international students": 7047
+  },
+  {
+    "Country": "Cyprus",
+    "Date": "2003-08-17",
+    "Number of international students": 523
+  },
+  {
+    "Country": "Ecuador",
+    "Date": "2015-11-30",
+    "Number of international students": 3362
+  },
+  {
+    "Country": "Bouvet Island",
+    "Date": "2019-06-13",
+    "Number of international students": 4083
+  },
+  {
+    "Country": "Djibouti",
+    "Date": "2009-10-06",
+    "Number of international students": 3666
+  },
+  {
+    "Country": "Martinique",
+    "Date": "2029-06-04",
+    "Number of international students": 7596
+  },
+  {
+    "Country": "Finland",
+    "Date": "2017-12-13",
+    "Number of international students": 6620
+  },
+  {
+    "Country": "Senegal",
+    "Date": "2021-03-29",
+    "Number of international students": 5159
+  },
+  {
+    "Country": "New Caledonia",
+    "Date": "2021-03-20",
+    "Number of international students": 4746
+  },
+  {
+    "Country": "Bahrain",
+    "Date": "2035-09-01",
+    "Number of international students": 6889
+  },
+  {
+    "Country": "Latvia",
+    "Date": "2040-01-23",
+    "Number of international students": 4822
+  },
+  {
+    "Country": "Isle of Man",
+    "Date": "2028-09-24",
+    "Number of international students": 6373
+  },
+  {
+    "Country": "Canada",
+    "Date": "2036-01-16",
+    "Number of international students": 7739
+  },
+  {
+    "Country": "Fiji",
+    "Date": "2029-07-11",
+    "Number of international students": 279
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Date": "2030-06-13",
+    "Number of international students": 2874
+  },
+  {
+    "Country": "Panama",
+    "Date": "2017-12-25",
+    "Number of international students": 7387
+  },
+  {
+    "Country": "Namibia",
+    "Date": "2013-02-23",
+    "Number of international students": 7302
+  },
+  {
+    "Country": "Djibouti",
+    "Date": "2049-02-01",
+    "Number of international students": 7431
+  },
+  {
+    "Country": "India",
+    "Date": "2032-10-29",
+    "Number of international students": 4406
+  },
+  {
+    "Country": "Guinea",
+    "Date": "2001-03-06",
+    "Number of international students": 109
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Date": "2029-10-07",
+    "Number of international students": 1713
+  },
+  {
+    "Country": "Åland Islands",
+    "Date": "2048-03-05",
+    "Number of international students": 3143
+  },
+  {
+    "Country": "Bermuda",
+    "Date": "2024-03-05",
+    "Number of international students": 5162
+  },
+  {
+    "Country": "Myanmar",
+    "Date": "2016-11-13",
+    "Number of international students": 5909
+  },
+  {
+    "Country": "Swaziland",
+    "Date": "2025-11-04",
+    "Number of international students": 2033
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "Date": "2029-08-08",
+    "Number of international students": 2173
+  },
+  {
+    "Country": "Mayotte",
+    "Date": "2034-06-06",
+    "Number of international students": 6771
+  },
+  {
+    "Country": "Montserrat",
+    "Date": "2035-07-29",
+    "Number of international students": 3032
+  },
+  {
+    "Country": "Marshall Islands",
+    "Date": "2035-12-18",
+    "Number of international students": 6765
+  },
+  {
+    "Country": "Morocco",
+    "Date": "2013-05-29",
+    "Number of international students": 4585
+  },
+  {
+    "Country": "France",
+    "Date": "2047-12-29",
+    "Number of international students": 7657
+  },
+  {
+    "Country": "Yemen",
+    "Date": "2042-01-09",
+    "Number of international students": 1954
+  },
+  {
+    "Country": "Saint Lucia",
+    "Date": "2047-04-14",
+    "Number of international students": 396
+  },
+  {
+    "Country": "Greenland",
+    "Date": "2037-11-24",
+    "Number of international students": 604
+  },
+  {
+    "Country": "Tokelau",
+    "Date": "2043-10-28",
+    "Number of international students": 4268
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Date": "2015-10-18",
+    "Number of international students": 7558
+  },
+  {
+    "Country": "Sri Lanka",
+    "Date": "2013-10-19",
+    "Number of international students": 7468
+  },
+  {
+    "Country": "Germany",
+    "Date": "2036-05-12",
+    "Number of international students": 7537
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Date": "2012-10-04",
+    "Number of international students": 3380
+  },
+  {
+    "Country": "Italy",
+    "Date": "2031-10-04",
+    "Number of international students": 7798
+  },
+  {
+    "Country": "Bulgaria",
+    "Date": "2048-09-05",
+    "Number of international students": 3555
+  },
+  {
+    "Country": "Norfolk Island",
+    "Date": "2045-04-04",
+    "Number of international students": 4696
+  },
+  {
+    "Country": "Hungary",
+    "Date": "2019-05-30",
+    "Number of international students": 1400
+  },
+  {
+    "Country": "Slovenia",
+    "Date": "2035-08-11",
+    "Number of international students": 1429
+  },
+  {
+    "Country": "Japan",
+    "Date": "2010-04-05",
+    "Number of international students": 4201
+  },
+  {
+    "Country": "Somalia",
+    "Date": "2000-12-29",
+    "Number of international students": 1040
+  },
+  {
+    "Country": "Nicaragua",
+    "Date": "2007-03-18",
+    "Number of international students": 7329
+  },
+  {
+    "Country": "Kuwait",
+    "Date": "2003-09-26",
+    "Number of international students": 7654
+  },
+  {
+    "Country": "Romania",
+    "Date": "2041-08-27",
+    "Number of international students": 4201
+  },
+  {
+    "Country": "Grenada",
+    "Date": "2034-03-06",
+    "Number of international students": 3964
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "Date": "2025-09-26",
+    "Number of international students": 2844
+  },
+  {
+    "Country": "Uruguay",
+    "Date": "2030-01-30",
+    "Number of international students": 3150
+  },
+  {
+    "Country": "Czech Republic",
+    "Date": "2029-08-13",
+    "Number of international students": 3243
+  },
+  {
+    "Country": "Jamaica",
+    "Date": "2028-04-10",
+    "Number of international students": 2060
+  },
+  {
+    "Country": "Mali",
+    "Date": "2009-06-22",
+    "Number of international students": 1752
+  },
+  {
+    "Country": "Western Sahara",
+    "Date": "2030-01-01",
+    "Number of international students": 1896
+  },
+  {
+    "Country": "Venezuela",
+    "Date": "2048-06-22",
+    "Number of international students": 1795
+  },
+  {
+    "Country": "Eritrea",
+    "Date": "2002-02-26",
+    "Number of international students": 1845
+  },
+  {
+    "Country": "Grenada",
+    "Date": "2033-11-22",
+    "Number of international students": 455
+  },
+  {
+    "Country": "French Southern Territories",
+    "Date": "2001-03-03",
+    "Number of international students": 626
+  },
+  {
+    "Country": "Lesotho",
+    "Date": "2011-11-18",
+    "Number of international students": 256
+  },
+  {
+    "Country": "Canada",
+    "Date": "2031-02-10",
+    "Number of international students": 3694
+  },
+  {
+    "Country": "Japan",
+    "Date": "2013-05-20",
+    "Number of international students": 1679
+  },
+  {
+    "Country": "Bahrain",
+    "Date": "2012-09-17",
+    "Number of international students": 4772
+  },
+  {
+    "Country": "Chad",
+    "Date": "2018-05-02",
+    "Number of international students": 6350
+  },
+  {
+    "Country": "United Kingdom",
+    "Date": "2035-11-20",
+    "Number of international students": 4455
+  },
+  {
+    "Country": "Christmas Island",
+    "Date": "2035-11-27",
+    "Number of international students": 7483
+  },
+  {
+    "Country": "Bouvet Island",
+    "Date": "2005-03-01",
+    "Number of international students": 4595
+  },
+  {
+    "Country": "Mayotte",
+    "Date": "2012-07-01",
+    "Number of international students": 278
+  },
+  {
+    "Country": "Colombia",
+    "Date": "2025-03-23",
+    "Number of international students": 2396
+  },
+  {
+    "Country": "South Georgia and the South Sandwich Islands",
+    "Date": "2040-12-13",
+    "Number of international students": 3312
+  },
+  {
+    "Country": "Tunisia",
+    "Date": "2016-05-04",
+    "Number of international students": 6184
+  },
+  {
+    "Country": "Sri Lanka",
+    "Date": "2025-07-19",
+    "Number of international students": 7471
+  },
+  {
+    "Country": "French Guiana",
+    "Date": "2015-01-09",
+    "Number of international students": 396
+  },
+  {
+    "Country": "Lesotho",
+    "Date": "2042-05-08",
+    "Number of international students": 4787
+  },
+  {
+    "Country": "Antarctica",
+    "Date": "2028-03-14",
+    "Number of international students": 5474
+  },
+  {
+    "Country": "New Caledonia",
+    "Date": "2049-05-08",
+    "Number of international students": 2327
+  },
+  {
+    "Country": "Israel",
+    "Date": "2018-03-28",
+    "Number of international students": 7121
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Date": "2028-11-13",
+    "Number of international students": 1752
+  },
+  {
+    "Country": "South Africa",
+    "Date": "2024-10-03",
+    "Number of international students": 6044
+  },
+  {
+    "Country": "Japan",
+    "Date": "2031-08-15",
+    "Number of international students": 3791
+  },
+  {
+    "Country": "Tajikistan",
+    "Date": "2019-03-06",
+    "Number of international students": 7104
+  },
+  {
+    "Country": "Denmark",
+    "Date": "2039-11-04",
+    "Number of international students": 3236
+  },
+  {
+    "Country": "Malaysia",
+    "Date": "2023-07-29",
+    "Number of international students": 1462
+  },
+  {
+    "Country": "Central African Republic",
+    "Date": "2048-11-30",
+    "Number of international students": 5224
+  },
+  {
+    "Country": "Honduras",
+    "Date": "2017-11-18",
+    "Number of international students": 7548
+  },
+  {
+    "Country": "Reunion",
+    "Date": "2042-09-01",
+    "Number of international students": 4756
+  },
+  {
+    "Country": "Latvia",
+    "Date": "2037-05-27",
+    "Number of international students": 3676
+  },
+  {
+    "Country": "Reunion",
+    "Date": "2046-01-05",
+    "Number of international students": 2671
+  },
+  {
+    "Country": "Pakistan",
+    "Date": "2035-10-17",
+    "Number of international students": 309
+  },
+  {
+    "Country": "Guyana",
+    "Date": "2020-08-29",
+    "Number of international students": 6871
+  },
+  {
+    "Country": "Oman",
+    "Date": "2009-03-12",
+    "Number of international students": 1387
+  },
+  {
+    "Country": "Norfolk Island",
+    "Date": "2035-08-18",
+    "Number of international students": 3052
+  },
+  {
+    "Country": "Germany",
+    "Date": "2038-11-20",
+    "Number of international students": 5370
+  },
+  {
+    "Country": "Sweden",
+    "Date": "2021-02-02",
+    "Number of international students": 7047
+  },
+  {
+    "Country": "Georgia",
+    "Date": "2043-03-30",
+    "Number of international students": 262
+  },
+  {
+    "Country": "Montserrat",
+    "Date": "2020-06-16",
+    "Number of international students": 334
+  },
+  {
+    "Country": "Bulgaria",
+    "Date": "2046-06-25",
+    "Number of international students": 6446
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Date": "2037-08-01",
+    "Number of international students": 6961
+  },
+  {
+    "Country": "Heard Island and Mcdonald Islands",
+    "Date": "2036-02-01",
+    "Number of international students": 1207
+  },
+  {
+    "Country": "Nigeria",
+    "Date": "2031-06-01",
+    "Number of international students": 77
+  },
+  {
+    "Country": "Seychelles",
+    "Date": "2003-10-13",
+    "Number of international students": 2301
+  },
+  {
+    "Country": "Sweden",
+    "Date": "2045-08-29",
+    "Number of international students": 7574
+  },
+  {
+    "Country": "Sweden",
+    "Date": "2044-03-07",
+    "Number of international students": 7625
+  },
+  {
+    "Country": "South Georgia and the South Sandwich Islands",
+    "Date": "2047-01-10",
+    "Number of international students": 1926
+  },
+  {
+    "Country": "Mexico",
+    "Date": "2038-08-13",
+    "Number of international students": 2130
+  },
+  {
+    "Country": "Mauritius",
+    "Date": "2015-04-22",
+    "Number of international students": 4550
+  },
+  {
+    "Country": "Germany",
+    "Date": "2035-07-16",
+    "Number of international students": 4958
+  },
+  {
+    "Country": "Monaco",
+    "Date": "2048-05-03",
+    "Number of international students": 4410
+  },
+  {
+    "Country": "Paraguay",
+    "Date": "2034-08-25",
+    "Number of international students": 4051
+  },
+  {
+    "Country": "Tuvalu",
+    "Date": "2029-03-11",
+    "Number of international students": 2362
+  },
+  {
+    "Country": "Honduras",
+    "Date": "2022-12-14",
+    "Number of international students": 3083
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Date": "2040-03-29",
+    "Number of international students": 2956
+  },
+  {
+    "Country": "French Southern Territories",
+    "Date": "2027-07-15",
+    "Number of international students": 3765
+  },
+  {
+    "Country": "Estonia",
+    "Date": "2049-06-07",
+    "Number of international students": 4385
+  },
+  {
+    "Country": "Lao People\"S Democratic Republic",
+    "Date": "2003-08-25",
+    "Number of international students": 3291
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2000-03-22",
+    "Number of international students": 6280
+  },
+  {
+    "Country": "Singapore",
+    "Date": "2048-08-06",
+    "Number of international students": 1827
+  },
+  {
+    "Country": "Pakistan",
+    "Date": "2007-06-15",
+    "Number of international students": 2314
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2045-04-06",
+    "Number of international students": 2512
+  },
+  {
+    "Country": "Cote D\"Ivoire",
+    "Date": "2048-08-31",
+    "Number of international students": 5381
+  },
+  {
+    "Country": "AndorrA",
+    "Date": "2033-09-23",
+    "Number of international students": 3835
+  },
+  {
+    "Country": "Oman",
+    "Date": "2038-09-27",
+    "Number of international students": 5612
+  },
+  {
+    "Country": "Mexico",
+    "Date": "2008-02-28",
+    "Number of international students": 3723
+  },
+  {
+    "Country": "Mauritius",
+    "Date": "2003-05-30",
+    "Number of international students": 814
+  },
+  {
+    "Country": "Lao People\"S Democratic Republic",
+    "Date": "2017-07-16",
+    "Number of international students": 4066
+  },
+  {
+    "Country": "Canada",
+    "Date": "2007-12-25",
+    "Number of international students": 3791
+  },
+  {
+    "Country": "Cote D\"Ivoire",
+    "Date": "2046-05-23",
+    "Number of international students": 551
+  },
+  {
+    "Country": "Palau",
+    "Date": "2041-05-22",
+    "Number of international students": 6963
+  },
+  {
+    "Country": "American Samoa",
+    "Date": "2028-09-23",
+    "Number of international students": 5216
+  },
+  {
+    "Country": "Australia",
+    "Date": "2008-11-18",
+    "Number of international students": 5481
+  },
+  {
+    "Country": "AndorrA",
+    "Date": "2046-12-12",
+    "Number of international students": 2199
+  },
+  {
+    "Country": "Slovakia",
+    "Date": "2029-10-13",
+    "Number of international students": 3490
+  },
+  {
+    "Country": "United States",
+    "Date": "2040-11-27",
+    "Number of international students": 1828
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Date": "2032-10-08",
+    "Number of international students": 5738
+  },
+  {
+    "Country": "Tunisia",
+    "Date": "2045-03-13",
+    "Number of international students": 2368
+  },
+  {
+    "Country": "Panama",
+    "Date": "2004-02-08",
+    "Number of international students": 2807
+  },
+  {
+    "Country": "Bermuda",
+    "Date": "2014-09-24",
+    "Number of international students": 1645
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2029-04-21",
+    "Number of international students": 659
+  },
+  {
+    "Country": "Lithuania",
+    "Date": "2009-12-07",
+    "Number of international students": 357
+  },
+  {
+    "Country": "Swaziland",
+    "Date": "2049-08-05",
+    "Number of international students": 5486
+  },
+  {
+    "Country": "Libyan Arab Jamahiriya",
+    "Date": "2010-04-07",
+    "Number of international students": 5377
+  },
+  {
+    "Country": "Dominican Republic",
+    "Date": "2026-09-10",
+    "Number of international students": 879
+  },
+  {
+    "Country": "Christmas Island",
+    "Date": "2045-05-29",
+    "Number of international students": 6229
+  },
+  {
+    "Country": "Guinea",
+    "Date": "2002-09-20",
+    "Number of international students": 2287
+  },
+  {
+    "Country": "Barbados",
+    "Date": "2033-08-14",
+    "Number of international students": 2178
+  },
+  {
+    "Country": "Guam",
+    "Date": "2030-01-30",
+    "Number of international students": 6517
+  },
+  {
+    "Country": "Costa Rica",
+    "Date": "2004-09-26",
+    "Number of international students": 5447
+  },
+  {
+    "Country": "Timor-Leste",
+    "Date": "2003-09-19",
+    "Number of international students": 1703
+  },
+  {
+    "Country": "Greece",
+    "Date": "2014-11-24",
+    "Number of international students": 6514
+  },
+  {
+    "Country": "Serbia and Montenegro",
+    "Date": "2036-01-04",
+    "Number of international students": 4617
+  },
+  {
+    "Country": "Montserrat",
+    "Date": "2030-09-17",
+    "Number of international students": 6631
+  },
+  {
+    "Country": "Cyprus",
+    "Date": "2039-08-29",
+    "Number of international students": 3849
+  },
+  {
+    "Country": "Gibraltar",
+    "Date": "2018-01-09",
+    "Number of international students": 1985
+  },
+  {
+    "Country": "Anguilla",
+    "Date": "2030-04-14",
+    "Number of international students": 1224
+  },
+  {
+    "Country": "Myanmar",
+    "Date": "2014-03-16",
+    "Number of international students": 5241
+  },
+  {
+    "Country": "Saint Lucia",
+    "Date": "2016-08-05",
+    "Number of international students": 948
+  },
+  {
+    "Country": "Uruguay",
+    "Date": "2022-06-03",
+    "Number of international students": 7065
+  },
+  {
+    "Country": "Panama",
+    "Date": "2023-06-30",
+    "Number of international students": 3850
+  },
+  {
+    "Country": "Tonga",
+    "Date": "2043-06-17",
+    "Number of international students": 1365
+  },
+  {
+    "Country": "Singapore",
+    "Date": "2004-02-02",
+    "Number of international students": 5591
+  },
+  {
+    "Country": "Sierra Leone",
+    "Date": "2040-01-13",
+    "Number of international students": 4618
+  },
+  {
+    "Country": "Bahrain",
+    "Date": "2037-01-11",
+    "Number of international students": 4643
+  },
+  {
+    "Country": "Gibraltar",
+    "Date": "2039-05-27",
+    "Number of international students": 4657
+  },
+  {
+    "Country": "Nigeria",
+    "Date": "2043-11-06",
+    "Number of international students": 5980
+  },
+  {
+    "Country": "Germany",
+    "Date": "2007-07-22",
+    "Number of international students": 2382
+  },
+  {
+    "Country": "Cape Verde",
+    "Date": "2032-11-22",
+    "Number of international students": 5126
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2014-04-07",
+    "Number of international students": 2960
+  },
+  {
+    "Country": "Gambia",
+    "Date": "2038-09-10",
+    "Number of international students": 2489
+  },
+  {
+    "Country": "Lithuania",
+    "Date": "2000-05-07",
+    "Number of international students": 1543
+  },
+  {
+    "Country": "Kuwait",
+    "Date": "2002-12-01",
+    "Number of international students": 3918
+  },
+  {
+    "Country": "Norway",
+    "Date": "2015-04-17",
+    "Number of international students": 4486
+  },
+  {
+    "Country": "Sweden",
+    "Date": "2047-04-16",
+    "Number of international students": 2281
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Date": "2035-05-24",
+    "Number of international students": 7675
+  },
+  {
+    "Country": "Finland",
+    "Date": "2018-08-02",
+    "Number of international students": 6406
+  },
+  {
+    "Country": "El Salvador",
+    "Date": "2045-06-13",
+    "Number of international students": 4726
+  },
+  {
+    "Country": "Spain",
+    "Date": "2037-11-29",
+    "Number of international students": 7104
+  },
+  {
+    "Country": "Kuwait",
+    "Date": "2018-05-03",
+    "Number of international students": 5479
+  },
+  {
+    "Country": "Zambia",
+    "Date": "2009-11-17",
+    "Number of international students": 7639
+  },
+  {
+    "Country": "Croatia",
+    "Date": "2002-03-16",
+    "Number of international students": 4989
+  },
+  {
+    "Country": "Hungary",
+    "Date": "2038-02-20",
+    "Number of international students": 3806
+  },
+  {
+    "Country": "Estonia",
+    "Date": "2005-07-21",
+    "Number of international students": 2472
+  },
+  {
+    "Country": "Serbia and Montenegro",
+    "Date": "2004-11-21",
+    "Number of international students": 557
+  },
+  {
+    "Country": "Seychelles",
+    "Date": "2027-05-31",
+    "Number of international students": 7826
+  },
+  {
+    "Country": "India",
+    "Date": "2002-06-04",
+    "Number of international students": 2180
+  },
+  {
+    "Country": "Malawi",
+    "Date": "2016-10-26",
+    "Number of international students": 6184
+  },
+  {
+    "Country": "Iraq",
+    "Date": "2049-05-04",
+    "Number of international students": 6049
+  },
+  {
+    "Country": "Kuwait",
+    "Date": "2003-12-23",
+    "Number of international students": 3036
+  },
+  {
+    "Country": "Aruba",
+    "Date": "2045-07-30",
+    "Number of international students": 1720
+  },
+  {
+    "Country": "Belgium",
+    "Date": "2031-09-28",
+    "Number of international students": 1565
+  },
+  {
+    "Country": "Eritrea",
+    "Date": "2029-05-21",
+    "Number of international students": 3692
+  },
+  {
+    "Country": "Yemen",
+    "Date": "2038-09-17",
+    "Number of international students": 7896
+  },
+  {
+    "Country": "Panama",
+    "Date": "2048-01-06",
+    "Number of international students": 5968
+  },
+  {
+    "Country": "Australia",
+    "Date": "2032-04-30",
+    "Number of international students": 5503
+  },
+  {
+    "Country": "Mayotte",
+    "Date": "2027-11-21",
+    "Number of international students": 5728
+  },
+  {
+    "Country": "Italy",
+    "Date": "2012-12-06",
+    "Number of international students": 4186
+  },
+  {
+    "Country": "Cook Islands",
+    "Date": "2036-06-04",
+    "Number of international students": 5456
+  },
+  {
+    "Country": "Turkmenistan",
+    "Date": "2004-05-24",
+    "Number of international students": 6047
+  },
+  {
+    "Country": "Morocco",
+    "Date": "2009-11-27",
+    "Number of international students": 7138
+  },
+  {
+    "Country": "Aruba",
+    "Date": "2035-02-04",
+    "Number of international students": 5481
+  },
+  {
+    "Country": "Kuwait",
+    "Date": "2041-01-05",
+    "Number of international students": 4508
+  },
+  {
+    "Country": "France",
+    "Date": "2024-08-10",
+    "Number of international students": 189
+  },
+  {
+    "Country": "Norfolk Island",
+    "Date": "2020-11-09",
+    "Number of international students": 3226
+  },
+  {
+    "Country": "Anguilla",
+    "Date": "2045-03-11",
+    "Number of international students": 4661
+  },
+  {
+    "Country": "Slovenia",
+    "Date": "2012-03-13",
+    "Number of international students": 977
+  },
+  {
+    "Country": "Eritrea",
+    "Date": "2000-12-01",
+    "Number of international students": 5404
+  },
+  {
+    "Country": "Romania",
+    "Date": "2027-06-26",
+    "Number of international students": 254
+  },
+  {
+    "Country": "Nepal",
+    "Date": "2000-05-26",
+    "Number of international students": 1279
+  },
+  {
+    "Country": "Heard Island and Mcdonald Islands",
+    "Date": "2030-07-06",
+    "Number of international students": 111
+  },
+  {
+    "Country": "Denmark",
+    "Date": "2032-11-02",
+    "Number of international students": 4519
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "Date": "2045-10-14",
+    "Number of international students": 7312
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Date": "2044-06-10",
+    "Number of international students": 2071
+  },
+  {
+    "Country": "Viet Nam",
+    "Date": "2026-07-03",
+    "Number of international students": 184
+  },
+  {
+    "Country": "Sweden",
+    "Date": "2020-07-27",
+    "Number of international students": 970
+  },
+  {
+    "Country": "Solomon Islands",
+    "Date": "2031-04-14",
+    "Number of international students": 523
+  },
+  {
+    "Country": "Serbia and Montenegro",
+    "Date": "2021-10-16",
+    "Number of international students": 3258
+  },
+  {
+    "Country": "Botswana",
+    "Date": "2043-06-23",
+    "Number of international students": 7412
+  },
+  {
+    "Country": "Lebanon",
+    "Date": "2049-01-21",
+    "Number of international students": 3489
+  },
+  {
+    "Country": "Nigeria",
+    "Date": "2042-02-07",
+    "Number of international students": 7285
+  },
+  {
+    "Country": "Suriname",
+    "Date": "2001-09-19",
+    "Number of international students": 6796
+  },
+  {
+    "Country": "Italy",
+    "Date": "2024-12-09",
+    "Number of international students": 5319
+  },
+  {
+    "Country": "Angola",
+    "Date": "2037-06-03",
+    "Number of international students": 960
+  },
+  {
+    "Country": "Greenland",
+    "Date": "2024-10-23",
+    "Number of international students": 3022
+  },
+  {
+    "Country": "Latvia",
+    "Date": "2025-01-29",
+    "Number of international students": 7553
+  },
+  {
+    "Country": "Angola",
+    "Date": "2003-09-22",
+    "Number of international students": 549
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Date": "2020-04-06",
+    "Number of international students": 4599
+  },
+  {
+    "Country": "Cook Islands",
+    "Date": "2049-08-15",
+    "Number of international students": 3777
+  },
+  {
+    "Country": "Guyana",
+    "Date": "2001-01-29",
+    "Number of international students": 5423
+  },
+  {
+    "Country": "Nigeria",
+    "Date": "2001-09-18",
+    "Number of international students": 2151
+  },
+  {
+    "Country": "Saint Helena",
+    "Date": "2006-05-19",
+    "Number of international students": 4593
+  },
+  {
+    "Country": "Mauritania",
+    "Date": "2023-02-14",
+    "Number of international students": 7971
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Date": "2049-06-09",
+    "Number of international students": 6925
+  },
+  {
+    "Country": "United States",
+    "Date": "2001-11-13",
+    "Number of international students": 7162
+  },
+  {
+    "Country": "Kuwait",
+    "Date": "2027-12-11",
+    "Number of international students": 4096
+  },
+  {
+    "Country": "Mali",
+    "Date": "2031-10-22",
+    "Number of international students": 1398
+  },
+  {
+    "Country": "Belarus",
+    "Date": "2025-10-23",
+    "Number of international students": 578
+  },
+  {
+    "Country": "Norway",
+    "Date": "2015-08-01",
+    "Number of international students": 7989
+  },
+  {
+    "Country": "South Georgia and the South Sandwich Islands",
+    "Date": "2037-06-16",
+    "Number of international students": 2901
+  },
+  {
+    "Country": "Zimbabwe",
+    "Date": "2014-03-31",
+    "Number of international students": 4317
+  },
+  {
+    "Country": "Chad",
+    "Date": "2004-06-23",
+    "Number of international students": 2942
+  },
+  {
+    "Country": "Luxembourg",
+    "Date": "2013-03-13",
+    "Number of international students": 1533
+  },
+  {
+    "Country": "Bermuda",
+    "Date": "2042-11-13",
+    "Number of international students": 3055
+  },
+  {
+    "Country": "Greece",
+    "Date": "2017-04-02",
+    "Number of international students": 6781
+  },
+  {
+    "Country": "Macao",
+    "Date": "2010-09-02",
+    "Number of international students": 1701
+  },
+  {
+    "Country": "Azerbaijan",
+    "Date": "2010-05-29",
+    "Number of international students": 648
+  },
+  {
+    "Country": "Timor-Leste",
+    "Date": "2018-10-23",
+    "Number of international students": 5873
+  },
+  {
+    "Country": "Georgia",
+    "Date": "2033-08-02",
+    "Number of international students": 1102
+  },
+  {
+    "Country": "Swaziland",
+    "Date": "2010-05-30",
+    "Number of international students": 3581
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "Date": "2044-02-28",
+    "Number of international students": 2997
+  },
+  {
+    "Country": "French Polynesia",
+    "Date": "2042-07-08",
+    "Number of international students": 7139
+  },
+  {
+    "Country": "Bouvet Island",
+    "Date": "2049-05-04",
+    "Number of international students": 6188
+  },
+  {
+    "Country": "Lao People\"S Democratic Republic",
+    "Date": "2034-03-12",
+    "Number of international students": 2972
+  },
+  {
+    "Country": "Bouvet Island",
+    "Date": "2011-08-25",
+    "Number of international students": 3600
+  },
+  {
+    "Country": "Yemen",
+    "Date": "2046-09-02",
+    "Number of international students": 1621
+  },
+  {
+    "Country": "France",
+    "Date": "2029-07-16",
+    "Number of international students": 899
+  },
+  {
+    "Country": "Jamaica",
+    "Date": "2047-12-20",
+    "Number of international students": 1398
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Date": "2000-05-25",
+    "Number of international students": 6566
+  },
+  {
+    "Country": "Botswana",
+    "Date": "2003-03-05",
+    "Number of international students": 861
+  },
+  {
+    "Country": "Chad",
+    "Date": "2023-09-12",
+    "Number of international students": 6121
+  },
+  {
+    "Country": "Cocos (Keeling) Islands",
+    "Date": "2027-03-21",
+    "Number of international students": 5040
+  },
+  {
+    "Country": "Afghanistan",
+    "Date": "2026-12-11",
+    "Number of international students": 436
+  },
+  {
+    "Country": "Iceland",
+    "Date": "2012-01-24",
+    "Number of international students": 2965
+  },
+  {
+    "Country": "Honduras",
+    "Date": "2020-09-03",
+    "Number of international students": 6701
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "Date": "2017-10-15",
+    "Number of international students": 5586
+  },
+  {
+    "Country": "Benin",
+    "Date": "2006-11-01",
+    "Number of international students": 231
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Date": "2025-04-03",
+    "Number of international students": 4406
+  },
+  {
+    "Country": "Timor-Leste",
+    "Date": "2048-07-22",
+    "Number of international students": 5623
+  },
+  {
+    "Country": "Netherlands",
+    "Date": "2010-04-28",
+    "Number of international students": 4191
+  },
+  {
+    "Country": "Fiji",
+    "Date": "2020-07-03",
+    "Number of international students": 3061
+  },
+  {
+    "Country": "Heard Island and Mcdonald Islands",
+    "Date": "2025-01-11",
+    "Number of international students": 4975
+  },
+  {
+    "Country": "San Marino",
+    "Date": "2046-08-09",
+    "Number of international students": 1476
+  },
+  {
+    "Country": "Malaysia",
+    "Date": "2031-09-25",
+    "Number of international students": 2455
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Date": "2016-12-27",
+    "Number of international students": 302
+  },
+  {
+    "Country": "Kiribati",
+    "Date": "2010-09-25",
+    "Number of international students": 7044
+  },
+  {
+    "Country": "Dominica",
+    "Date": "2020-07-04",
+    "Number of international students": 3923
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "Date": "2022-04-22",
+    "Number of international students": 3889
+  },
+  {
+    "Country": "Saint Helena",
+    "Date": "2022-05-26",
+    "Number of international students": 5
+  },
+  {
+    "Country": "Malawi",
+    "Date": "2024-12-22",
+    "Number of international students": 5036
+  },
+  {
+    "Country": "Mexico",
+    "Date": "2013-03-05",
+    "Number of international students": 1967
+  },
+  {
+    "Country": "Iceland",
+    "Date": "2043-08-05",
+    "Number of international students": 1731
+  },
+  {
+    "Country": "Canada",
+    "Date": "2049-04-03",
+    "Number of international students": 7133
+  },
+  {
+    "Country": "Angola",
+    "Date": "2009-09-20",
+    "Number of international students": 3185
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Date": "2008-03-27",
+    "Number of international students": 7200
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Date": "2034-06-11",
+    "Number of international students": 1886
+  },
+  {
+    "Country": "Guam",
+    "Date": "2030-08-10",
+    "Number of international students": 4563
+  },
+  {
+    "Country": "Angola",
+    "Date": "2023-01-28",
+    "Number of international students": 1804
+  },
+  {
+    "Country": "Chad",
+    "Date": "2008-01-27",
+    "Number of international students": 3237
+  },
+  {
+    "Country": "Afghanistan",
+    "Date": "2009-06-09",
+    "Number of international students": 1985
+  },
+  {
+    "Country": "Heard Island and Mcdonald Islands",
+    "Date": "2030-10-19",
+    "Number of international students": 2217
+  },
+  {
+    "Country": "Pitcairn",
+    "Date": "2019-10-13",
+    "Number of international students": 561
+  },
+  {
+    "Country": "Western Sahara",
+    "Date": "2039-08-24",
+    "Number of international students": 4312
+  },
+  {
+    "Country": "Serbia and Montenegro",
+    "Date": "2010-02-17",
+    "Number of international students": 7102
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "Date": "2046-11-01",
+    "Number of international students": 2544
+  },
+  {
+    "Country": "Congo",
+    "Date": "2017-12-20",
+    "Number of international students": 575
+  },
+  {
+    "Country": "Kenya",
+    "Date": "2025-04-30",
+    "Number of international students": 1626
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2029-01-27",
+    "Number of international students": 4427
+  },
+  {
+    "Country": "Georgia",
+    "Date": "2002-07-25",
+    "Number of international students": 3437
+  },
+  {
+    "Country": "Haiti",
+    "Date": "2037-06-08",
+    "Number of international students": 954
+  },
+  {
+    "Country": "Ethiopia",
+    "Date": "2040-04-28",
+    "Number of international students": 4907
+  },
+  {
+    "Country": "El Salvador",
+    "Date": "2031-11-01",
+    "Number of international students": 784
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Date": "2049-07-09",
+    "Number of international students": 2262
+  },
+  {
+    "Country": "Cuba",
+    "Date": "2001-02-22",
+    "Number of international students": 3209
+  },
+  {
+    "Country": "Sudan",
+    "Date": "2009-12-08",
+    "Number of international students": 2539
+  },
+  {
+    "Country": "Azerbaijan",
+    "Date": "2032-05-28",
+    "Number of international students": 2997
+  },
+  {
+    "Country": "Samoa",
+    "Date": "2018-06-13",
+    "Number of international students": 4897
+  },
+  {
+    "Country": "Namibia",
+    "Date": "2001-05-10",
+    "Number of international students": 3974
+  },
+  {
+    "Country": "French Guiana",
+    "Date": "2039-04-22",
+    "Number of international students": 256
+  },
+  {
+    "Country": "Malaysia",
+    "Date": "2024-07-21",
+    "Number of international students": 4974
+  },
+  {
+    "Country": "Canada",
+    "Date": "2037-07-31",
+    "Number of international students": 2392
+  },
+  {
+    "Country": "Jordan",
+    "Date": "2042-11-23",
+    "Number of international students": 4370
+  },
+  {
+    "Country": "RWANDA",
+    "Date": "2001-08-23",
+    "Number of international students": 889
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Date": "2008-06-12",
+    "Number of international students": 5319
+  },
+  {
+    "Country": "Cyprus",
+    "Date": "2029-12-08",
+    "Number of international students": 4508
+  },
+  {
+    "Country": "Wallis and Futuna",
+    "Date": "2041-12-27",
+    "Number of international students": 7961
+  },
+  {
+    "Country": "American Samoa",
+    "Date": "2031-09-08",
+    "Number of international students": 3214
+  },
+  {
+    "Country": "Ukraine",
+    "Date": "2015-11-19",
+    "Number of international students": 4471
+  },
+  {
+    "Country": "Belarus",
+    "Date": "2023-03-08",
+    "Number of international students": 3201
+  },
+  {
+    "Country": "Israel",
+    "Date": "2009-07-12",
+    "Number of international students": 4252
+  },
+  {
+    "Country": "Timor-Leste",
+    "Date": "2046-08-09",
+    "Number of international students": 1595
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "Date": "2006-02-04",
+    "Number of international students": 5411
+  },
+  {
+    "Country": "Bahrain",
+    "Date": "2024-12-26",
+    "Number of international students": 2930
+  },
+  {
+    "Country": "Honduras",
+    "Date": "2044-02-03",
+    "Number of international students": 7958
+  },
+  {
+    "Country": "Cambodia",
+    "Date": "2036-02-23",
+    "Number of international students": 7847
+  },
+  {
+    "Country": "Ghana",
+    "Date": "2001-11-27",
+    "Number of international students": 1359
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2022-07-04",
+    "Number of international students": 1156
+  },
+  {
+    "Country": "Togo",
+    "Date": "2046-04-04",
+    "Number of international students": 1128
+  },
+  {
+    "Country": "Greece",
+    "Date": "2010-01-07",
+    "Number of international students": 5526
+  },
+  {
+    "Country": "Tokelau",
+    "Date": "2002-11-08",
+    "Number of international students": 1152
+  },
+  {
+    "Country": "Armenia",
+    "Date": "2037-02-16",
+    "Number of international students": 6055
+  },
+  {
+    "Country": "Svalbard and Jan Mayen",
+    "Date": "2009-05-07",
+    "Number of international students": 4919
+  },
+  {
+    "Country": "Monaco",
+    "Date": "2020-12-14",
+    "Number of international students": 5960
+  },
+  {
+    "Country": "Nigeria",
+    "Date": "2002-10-05",
+    "Number of international students": 5881
+  },
+  {
+    "Country": "Libyan Arab Jamahiriya",
+    "Date": "2018-06-13",
+    "Number of international students": 1516
+  },
+  {
+    "Country": "Åland Islands",
+    "Date": "2030-10-06",
+    "Number of international students": 2646
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Date": "2013-11-23",
+    "Number of international students": 4332
+  },
+  {
+    "Country": "AndorrA",
+    "Date": "2027-09-17",
+    "Number of international students": 827
+  },
+  {
+    "Country": "Cote D\"Ivoire",
+    "Date": "2001-09-22",
+    "Number of international students": 1001
+  },
+  {
+    "Country": "Iraq",
+    "Date": "2022-01-10",
+    "Number of international students": 7054
+  },
+  {
+    "Country": "United Kingdom",
+    "Date": "2027-11-08",
+    "Number of international students": 6013
+  },
+  {
+    "Country": "United States",
+    "Date": "2024-08-17",
+    "Number of international students": 2869
+  },
+  {
+    "Country": "Belarus",
+    "Date": "2004-05-03",
+    "Number of international students": 6651
+  },
+  {
+    "Country": "Iraq",
+    "Date": "2035-05-26",
+    "Number of international students": 4475
+  },
+  {
+    "Country": "Marshall Islands",
+    "Date": "2018-02-16",
+    "Number of international students": 128
+  },
+  {
+    "Country": "Norway",
+    "Date": "2046-09-29",
+    "Number of international students": 7737
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Date": "2028-07-07",
+    "Number of international students": 1006
+  },
+  {
+    "Country": "Viet Nam",
+    "Date": "2018-07-06",
+    "Number of international students": 2583
+  },
+  {
+    "Country": "Mauritius",
+    "Date": "2045-12-18",
+    "Number of international students": 4667
+  },
+  {
+    "Country": "Malaysia",
+    "Date": "2013-02-05",
+    "Number of international students": 249
+  },
+  {
+    "Country": "Hungary",
+    "Date": "2014-06-02",
+    "Number of international students": 4253
+  },
+  {
+    "Country": "Costa Rica",
+    "Date": "2000-03-31",
+    "Number of international students": 5504
+  },
+  {
+    "Country": "Benin",
+    "Date": "2024-07-05",
+    "Number of international students": 3277
+  },
+  {
+    "Country": "Kazakhstan",
+    "Date": "2026-07-17",
+    "Number of international students": 2948
+  },
+  {
+    "Country": "Togo",
+    "Date": "2010-10-19",
+    "Number of international students": 6422
+  },
+  {
+    "Country": "Madagascar",
+    "Date": "2012-03-05",
+    "Number of international students": 5718
+  },
+  {
+    "Country": "Benin",
+    "Date": "2017-11-27",
+    "Number of international students": 1861
+  },
+  {
+    "Country": "Maldives",
+    "Date": "2047-08-10",
+    "Number of international students": 4301
+  },
+  {
+    "Country": "Wallis and Futuna",
+    "Date": "2006-09-09",
+    "Number of international students": 2783
+  },
+  {
+    "Country": "Lithuania",
+    "Date": "2039-07-30",
+    "Number of international students": 1640
+  },
+  {
+    "Country": "Belarus",
+    "Date": "2036-01-09",
+    "Number of international students": 5337
+  },
+  {
+    "Country": "Romania",
+    "Date": "2023-12-14",
+    "Number of international students": 5882
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Date": "2046-12-19",
+    "Number of international students": 813
+  },
+  {
+    "Country": "Puerto Rico",
+    "Date": "2026-03-14",
+    "Number of international students": 1764
+  },
+  {
+    "Country": "Mexico",
+    "Date": "2007-08-14",
+    "Number of international students": 2553
+  },
+  {
+    "Country": "Anguilla",
+    "Date": "2048-12-30",
+    "Number of international students": 155
+  },
+  {
+    "Country": "Isle of Man",
+    "Date": "2033-06-30",
+    "Number of international students": 1429
+  },
+  {
+    "Country": "Belarus",
+    "Date": "2005-10-01",
+    "Number of international students": 2349
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2044-05-02",
+    "Number of international students": 28
+  },
+  {
+    "Country": "Denmark",
+    "Date": "2038-05-15",
+    "Number of international students": 5730
+  },
+  {
+    "Country": "Greece",
+    "Date": "2034-10-07",
+    "Number of international students": 4976
+  },
+  {
+    "Country": "Honduras",
+    "Date": "2003-05-09",
+    "Number of international students": 5413
+  },
+  {
+    "Country": "Sweden",
+    "Date": "2033-09-16",
+    "Number of international students": 6575
+  },
+  {
+    "Country": "Sri Lanka",
+    "Date": "2033-04-11",
+    "Number of international students": 7610
+  },
+  {
+    "Country": "Czech Republic",
+    "Date": "2016-11-26",
+    "Number of international students": 3204
+  },
+  {
+    "Country": "Uruguay",
+    "Date": "2047-11-06",
+    "Number of international students": 2102
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Date": "2036-06-26",
+    "Number of international students": 4781
+  },
+  {
+    "Country": "Cape Verde",
+    "Date": "2030-04-20",
+    "Number of international students": 3971
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Date": "2011-11-16",
+    "Number of international students": 7219
+  },
+  {
+    "Country": "Marshall Islands",
+    "Date": "2016-06-20",
+    "Number of international students": 6372
+  },
+  {
+    "Country": "Guatemala",
+    "Date": "2018-03-23",
+    "Number of international students": 7437
+  },
+  {
+    "Country": "Denmark",
+    "Date": "2003-12-24",
+    "Number of international students": 6296
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Date": "2009-06-09",
+    "Number of international students": 1542
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Date": "2005-06-14",
+    "Number of international students": 6721
+  },
+  {
+    "Country": "Tunisia",
+    "Date": "2020-09-26",
+    "Number of international students": 4937
+  },
+  {
+    "Country": "Tokelau",
+    "Date": "2017-09-14",
+    "Number of international students": 6556
+  },
+  {
+    "Country": "Kenya",
+    "Date": "2042-03-21",
+    "Number of international students": 2168
+  },
+  {
+    "Country": "Estonia",
+    "Date": "2031-01-10",
+    "Number of international students": 2178
+  },
+  {
+    "Country": "Bangladesh",
+    "Date": "2038-12-24",
+    "Number of international students": 2119
+  },
+  {
+    "Country": "Guernsey",
+    "Date": "2021-11-10",
+    "Number of international students": 7230
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2006-01-28",
+    "Number of international students": 5882
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Date": "2001-04-10",
+    "Number of international students": 4856
+  },
+  {
+    "Country": "Pitcairn",
+    "Date": "2013-08-13",
+    "Number of international students": 3876
+  },
+  {
+    "Country": "Maldives",
+    "Date": "2028-10-05",
+    "Number of international students": 3949
+  },
+  {
+    "Country": "Botswana",
+    "Date": "2039-10-16",
+    "Number of international students": 5099
+  },
+  {
+    "Country": "Qatar",
+    "Date": "2034-03-31",
+    "Number of international students": 428
+  },
+  {
+    "Country": "Malta",
+    "Date": "2025-03-08",
+    "Number of international students": 6171
+  },
+  {
+    "Country": "French Southern Territories",
+    "Date": "2022-02-24",
+    "Number of international students": 6163
+  },
+  {
+    "Country": "Afghanistan",
+    "Date": "2021-01-17",
+    "Number of international students": 6069
+  },
+  {
+    "Country": "Sweden",
+    "Date": "2015-01-20",
+    "Number of international students": 7962
+  },
+  {
+    "Country": "Cyprus",
+    "Date": "2008-11-12",
+    "Number of international students": 7763
+  },
+  {
+    "Country": "Oman",
+    "Date": "2001-07-02",
+    "Number of international students": 1372
+  },
+  {
+    "Country": "Saint Lucia",
+    "Date": "2029-09-16",
+    "Number of international students": 4239
+  },
+  {
+    "Country": "Mali",
+    "Date": "2033-09-15",
+    "Number of international students": 3385
+  },
+  {
+    "Country": "Uruguay",
+    "Date": "2011-01-03",
+    "Number of international students": 5502
+  },
+  {
+    "Country": "French Southern Territories",
+    "Date": "2006-04-12",
+    "Number of international students": 5
+  },
+  {
+    "Country": "Spain",
+    "Date": "2032-08-17",
+    "Number of international students": 7038
+  },
+  {
+    "Country": "Singapore",
+    "Date": "2000-10-18",
+    "Number of international students": 2034
+  },
+  {
+    "Country": "Albania",
+    "Date": "2004-04-15",
+    "Number of international students": 7011
+  },
+  {
+    "Country": "Viet Nam",
+    "Date": "2007-01-02",
+    "Number of international students": 3061
+  },
+  {
+    "Country": "Greenland",
+    "Date": "2017-01-09",
+    "Number of international students": 35
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Date": "2035-02-11",
+    "Number of international students": 2278
+  },
+  {
+    "Country": "Singapore",
+    "Date": "2013-05-21",
+    "Number of international students": 5776
+  },
+  {
+    "Country": "Switzerland",
+    "Date": "2026-06-12",
+    "Number of international students": 1927
+  },
+  {
+    "Country": "Lesotho",
+    "Date": "2004-10-26",
+    "Number of international students": 5402
+  },
+  {
+    "Country": "Zimbabwe",
+    "Date": "2036-11-24",
+    "Number of international students": 7566
+  },
+  {
+    "Country": "Bouvet Island",
+    "Date": "2001-07-16",
+    "Number of international students": 2698
+  },
+  {
+    "Country": "Niger",
+    "Date": "2004-01-14",
+    "Number of international students": 227
+  },
+  {
+    "Country": "Wallis and Futuna",
+    "Date": "2041-10-20",
+    "Number of international students": 577
+  },
+  {
+    "Country": "Uzbekistan",
+    "Date": "2043-07-25",
+    "Number of international students": 1275
+  },
+  {
+    "Country": "New Zealand",
+    "Date": "2026-01-17",
+    "Number of international students": 1730
+  },
+  {
+    "Country": "Australia",
+    "Date": "2026-07-07",
+    "Number of international students": 3624
+  },
+  {
+    "Country": "Dominican Republic",
+    "Date": "2019-02-06",
+    "Number of international students": 700
+  },
+  {
+    "Country": "Ethiopia",
+    "Date": "2018-10-14",
+    "Number of international students": 6433
+  },
+  {
+    "Country": "Honduras",
+    "Date": "2011-02-19",
+    "Number of international students": 5472
+  },
+  {
+    "Country": "Tonga",
+    "Date": "2047-02-19",
+    "Number of international students": 4756
+  },
+  {
+    "Country": "Bhutan",
+    "Date": "2021-08-01",
+    "Number of international students": 5969
+  },
+  {
+    "Country": "Benin",
+    "Date": "2039-05-04",
+    "Number of international students": 1218
+  },
+  {
+    "Country": "Isle of Man",
+    "Date": "2004-10-11",
+    "Number of international students": 3981
+  },
+  {
+    "Country": "Jordan",
+    "Date": "2010-04-18",
+    "Number of international students": 6610
+  },
+  {
+    "Country": "Greece",
+    "Date": "2022-11-14",
+    "Number of international students": 4878
+  },
+  {
+    "Country": "Tonga",
+    "Date": "2012-10-21",
+    "Number of international students": 1396
+  },
+  {
+    "Country": "Algeria",
+    "Date": "2049-05-21",
+    "Number of international students": 6961
+  },
+  {
+    "Country": "Tonga",
+    "Date": "2021-08-29",
+    "Number of international students": 2789
+  },
+  {
+    "Country": "Azerbaijan",
+    "Date": "2014-06-15",
+    "Number of international students": 716
+  },
+  {
+    "Country": "Swaziland",
+    "Date": "2019-08-02",
+    "Number of international students": 7550
+  },
+  {
+    "Country": "Hungary",
+    "Date": "2036-09-01",
+    "Number of international students": 29
+  },
+  {
+    "Country": "Belize",
+    "Date": "2026-01-25",
+    "Number of international students": 6210
+  },
+  {
+    "Country": "Saint Lucia",
+    "Date": "2010-08-05",
+    "Number of international students": 782
+  },
+  {
+    "Country": "Switzerland",
+    "Date": "2011-09-06",
+    "Number of international students": 7846
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Date": "2011-01-12",
+    "Number of international students": 1111
+  },
+  {
+    "Country": "Botswana",
+    "Date": "2031-09-02",
+    "Number of international students": 4432
+  },
+  {
+    "Country": "Macao",
+    "Date": "2046-11-14",
+    "Number of international students": 1149
+  },
+  {
+    "Country": "Guinea",
+    "Date": "2010-07-07",
+    "Number of international students": 2129
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2033-12-06",
+    "Number of international students": 6130
+  },
+  {
+    "Country": "Swaziland",
+    "Date": "2007-11-26",
+    "Number of international students": 7629
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2003-06-07",
+    "Number of international students": 6011
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Date": "2038-07-30",
+    "Number of international students": 3053
+  },
+  {
+    "Country": "Nauru",
+    "Date": "2044-09-11",
+    "Number of international students": 4910
+  },
+  {
+    "Country": "Grenada",
+    "Date": "2027-07-24",
+    "Number of international students": 7879
+  },
+  {
+    "Country": "Bahamas",
+    "Date": "2013-04-28",
+    "Number of international students": 856
+  },
+  {
+    "Country": "Comoros",
+    "Date": "2021-11-14",
+    "Number of international students": 7024
+  },
+  {
+    "Country": "Japan",
+    "Date": "2033-05-27",
+    "Number of international students": 6619
+  },
+  {
+    "Country": "Niger",
+    "Date": "2020-10-11",
+    "Number of international students": 1377
+  },
+  {
+    "Country": "Algeria",
+    "Date": "2008-01-31",
+    "Number of international students": 4827
+  },
+  {
+    "Country": "Suriname",
+    "Date": "2000-05-29",
+    "Number of international students": 638
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Date": "2046-06-05",
+    "Number of international students": 1442
+  },
+  {
+    "Country": "Antarctica",
+    "Date": "2006-01-31",
+    "Number of international students": 4637
+  },
+  {
+    "Country": "Tuvalu",
+    "Date": "2040-09-26",
+    "Number of international students": 6315
+  },
+  {
+    "Country": "Kazakhstan",
+    "Date": "2046-10-24",
+    "Number of international students": 4335
+  },
+  {
+    "Country": "Mexico",
+    "Date": "2011-08-18",
+    "Number of international students": 4753
+  },
+  {
+    "Country": "Gibraltar",
+    "Date": "2033-01-24",
+    "Number of international students": 4077
+  },
+  {
+    "Country": "Ecuador",
+    "Date": "2039-05-24",
+    "Number of international students": 2601
+  },
+  {
+    "Country": "Mali",
+    "Date": "2034-08-17",
+    "Number of international students": 1260
+  },
+  {
+    "Country": "Azerbaijan",
+    "Date": "2002-07-25",
+    "Number of international students": 4263
+  },
+  {
+    "Country": "Madagascar",
+    "Date": "2001-03-12",
+    "Number of international students": 6062
+  },
+  {
+    "Country": "Mongolia",
+    "Date": "2035-11-14",
+    "Number of international students": 1207
+  },
+  {
+    "Country": "Finland",
+    "Date": "2042-06-19",
+    "Number of international students": 493
+  },
+  {
+    "Country": "Ghana",
+    "Date": "2040-10-15",
+    "Number of international students": 6787
+  },
+  {
+    "Country": "Guadeloupe",
+    "Date": "2016-05-17",
+    "Number of international students": 150
+  },
+  {
+    "Country": "Greenland",
+    "Date": "2010-01-06",
+    "Number of international students": 4464
+  },
+  {
+    "Country": "Costa Rica",
+    "Date": "2002-12-11",
+    "Number of international students": 5150
+  },
+  {
+    "Country": "Reunion",
+    "Date": "2033-06-27",
+    "Number of international students": 6485
+  },
+  {
+    "Country": "Faroe Islands",
+    "Date": "2010-10-15",
+    "Number of international students": 2909
+  },
+  {
+    "Country": "Guam",
+    "Date": "2000-01-08",
+    "Number of international students": 607
+  },
+  {
+    "Country": "Isle of Man",
+    "Date": "2025-07-10",
+    "Number of international students": 6424
+  },
+  {
+    "Country": "Fiji",
+    "Date": "2022-12-06",
+    "Number of international students": 4737
+  },
+  {
+    "Country": "Belarus",
+    "Date": "2031-05-17",
+    "Number of international students": 2249
+  },
+  {
+    "Country": "Tokelau",
+    "Date": "2018-02-25",
+    "Number of international students": 1144
+  },
+  {
+    "Country": "Cayman Islands",
+    "Date": "2021-12-25",
+    "Number of international students": 4169
+  },
+  {
+    "Country": "Guernsey",
+    "Date": "2038-07-29",
+    "Number of international students": 5775
+  },
+  {
+    "Country": "Guernsey",
+    "Date": "2010-06-14",
+    "Number of international students": 5720
+  },
+  {
+    "Country": "Colombia",
+    "Date": "2014-10-09",
+    "Number of international students": 409
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2013-03-05",
+    "Number of international students": 4441
+  },
+  {
+    "Country": "New Zealand",
+    "Date": "2043-04-22",
+    "Number of international students": 1554
+  },
+  {
+    "Country": "Qatar",
+    "Date": "2021-08-08",
+    "Number of international students": 2424
+  },
+  {
+    "Country": "Angola",
+    "Date": "2047-07-17",
+    "Number of international students": 5533
+  },
+  {
+    "Country": "Uganda",
+    "Date": "2040-07-16",
+    "Number of international students": 6477
+  },
+  {
+    "Country": "Faroe Islands",
+    "Date": "2011-02-15",
+    "Number of international students": 269
+  },
+  {
+    "Country": "Comoros",
+    "Date": "2018-04-15",
+    "Number of international students": 3247
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Date": "2015-12-15",
+    "Number of international students": 694
+  },
+  {
+    "Country": "Denmark",
+    "Date": "2022-01-03",
+    "Number of international students": 495
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "Date": "2048-11-22",
+    "Number of international students": 6467
+  },
+  {
+    "Country": "Egypt",
+    "Date": "2011-12-12",
+    "Number of international students": 5053
+  },
+  {
+    "Country": "Finland",
+    "Date": "2012-12-21",
+    "Number of international students": 7807
+  },
+  {
+    "Country": "French Guiana",
+    "Date": "2012-07-03",
+    "Number of international students": 7123
+  },
+  {
+    "Country": "Croatia",
+    "Date": "2005-09-08",
+    "Number of international students": 7840
+  },
+  {
+    "Country": "Macao",
+    "Date": "2019-11-08",
+    "Number of international students": 2615
+  },
+  {
+    "Country": "Pakistan",
+    "Date": "2027-12-24",
+    "Number of international students": 7991
+  },
+  {
+    "Country": "Cambodia",
+    "Date": "2012-12-09",
+    "Number of international students": 5878
+  },
+  {
+    "Country": "Pakistan",
+    "Date": "2009-11-22",
+    "Number of international students": 2543
+  },
+  {
+    "Country": "Heard Island and Mcdonald Islands",
+    "Date": "2045-07-19",
+    "Number of international students": 5337
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Date": "2009-03-18",
+    "Number of international students": 281
+  },
+  {
+    "Country": "American Samoa",
+    "Date": "2008-02-29",
+    "Number of international students": 7610
+  },
+  {
+    "Country": "Guam",
+    "Date": "2025-03-28",
+    "Number of international students": 1045
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "Date": "2000-03-07",
+    "Number of international students": 3866
+  },
+  {
+    "Country": "Maldives",
+    "Date": "2037-04-23",
+    "Number of international students": 1570
+  },
+  {
+    "Country": "Barbados",
+    "Date": "2021-08-13",
+    "Number of international students": 2581
+  },
+  {
+    "Country": "Antarctica",
+    "Date": "2019-07-24",
+    "Number of international students": 5641
+  },
+  {
+    "Country": "Mayotte",
+    "Date": "2043-11-28",
+    "Number of international students": 5015
+  },
+  {
+    "Country": "Nauru",
+    "Date": "2042-05-09",
+    "Number of international students": 5771
+  },
+  {
+    "Country": "Central African Republic",
+    "Date": "2039-04-13",
+    "Number of international students": 2488
+  },
+  {
+    "Country": "Tunisia",
+    "Date": "2039-01-28",
+    "Number of international students": 1481
+  },
+  {
+    "Country": "Guam",
+    "Date": "2045-04-13",
+    "Number of international students": 5563
+  },
+  {
+    "Country": "Samoa",
+    "Date": "2021-02-27",
+    "Number of international students": 4743
+  },
+  {
+    "Country": "Ethiopia",
+    "Date": "2010-06-16",
+    "Number of international students": 3526
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2021-02-13",
+    "Number of international students": 2356
+  },
+  {
+    "Country": "Togo",
+    "Date": "2016-10-25",
+    "Number of international students": 6209
+  },
+  {
+    "Country": "Belarus",
+    "Date": "2035-05-26",
+    "Number of international students": 6491
+  },
+  {
+    "Country": "Faroe Islands",
+    "Date": "2002-07-02",
+    "Number of international students": 6712
+  },
+  {
+    "Country": "Zambia",
+    "Date": "2046-07-12",
+    "Number of international students": 6004
+  },
+  {
+    "Country": "Dominica",
+    "Date": "2025-07-03",
+    "Number of international students": 7580
+  },
+  {
+    "Country": "Czech Republic",
+    "Date": "2034-07-10",
+    "Number of international students": 4161
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Date": "2018-01-10",
+    "Number of international students": 1803
+  },
+  {
+    "Country": "Armenia",
+    "Date": "2045-09-17",
+    "Number of international students": 658
+  },
+  {
+    "Country": "Lao People\"S Democratic Republic",
+    "Date": "2021-10-13",
+    "Number of international students": 5871
+  },
+  {
+    "Country": "Guinea",
+    "Date": "2012-03-19",
+    "Number of international students": 3489
+  },
+  {
+    "Country": "Nauru",
+    "Date": "2003-01-21",
+    "Number of international students": 2707
+  },
+  {
+    "Country": "Oman",
+    "Date": "2008-04-02",
+    "Number of international students": 3131
+  },
+  {
+    "Country": "Bhutan",
+    "Date": "2005-04-18",
+    "Number of international students": 2227
+  },
+  {
+    "Country": "Tuvalu",
+    "Date": "2009-04-28",
+    "Number of international students": 7020
+  },
+  {
+    "Country": "Bolivia",
+    "Date": "2008-04-14",
+    "Number of international students": 3582
+  },
+  {
+    "Country": "Western Sahara",
+    "Date": "2049-12-31",
+    "Number of international students": 7767
+  },
+  {
+    "Country": "Singapore",
+    "Date": "2036-07-06",
+    "Number of international students": 1029
+  },
+  {
+    "Country": "Bangladesh",
+    "Date": "2036-02-10",
+    "Number of international students": 6003
+  },
+  {
+    "Country": "Serbia and Montenegro",
+    "Date": "2040-04-11",
+    "Number of international students": 6588
+  },
+  {
+    "Country": "Haiti",
+    "Date": "2007-08-18",
+    "Number of international students": 5943
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2040-03-26",
+    "Number of international students": 2146
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Date": "2019-04-08",
+    "Number of international students": 1570
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Date": "2047-10-30",
+    "Number of international students": 2037
+  },
+  {
+    "Country": "United Kingdom",
+    "Date": "2014-02-18",
+    "Number of international students": 3256
+  },
+  {
+    "Country": "Uganda",
+    "Date": "2007-08-15",
+    "Number of international students": 3516
+  },
+  {
+    "Country": "Oman",
+    "Date": "2043-01-23",
+    "Number of international students": 6266
+  },
+  {
+    "Country": "Chad",
+    "Date": "2009-01-08",
+    "Number of international students": 3445
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2015-09-13",
+    "Number of international students": 123
+  },
+  {
+    "Country": "Comoros",
+    "Date": "2006-01-10",
+    "Number of international students": 4624
+  },
+  {
+    "Country": "Martinique",
+    "Date": "2003-11-08",
+    "Number of international students": 1850
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Date": "2027-08-24",
+    "Number of international students": 3664
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Date": "2038-05-28",
+    "Number of international students": 2053
+  },
+  {
+    "Country": "Uganda",
+    "Date": "2019-01-08",
+    "Number of international students": 3926
+  },
+  {
+    "Country": "Jamaica",
+    "Date": "2034-12-20",
+    "Number of international students": 1675
+  },
+  {
+    "Country": "Colombia",
+    "Date": "2038-05-12",
+    "Number of international students": 2412
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Date": "2019-07-04",
+    "Number of international students": 1882
+  },
+  {
+    "Country": "Saint Lucia",
+    "Date": "2009-12-30",
+    "Number of international students": 3085
+  },
+  {
+    "Country": "Belarus",
+    "Date": "2048-06-17",
+    "Number of international students": 2605
+  },
+  {
+    "Country": "India",
+    "Date": "2014-09-27",
+    "Number of international students": 2237
+  },
+  {
+    "Country": "Bouvet Island",
+    "Date": "2004-11-22",
+    "Number of international students": 4655
+  },
+  {
+    "Country": "Chile",
+    "Date": "2038-04-01",
+    "Number of international students": 5283
+  },
+  {
+    "Country": "Afghanistan",
+    "Date": "2032-07-17",
+    "Number of international students": 3610
+  },
+  {
+    "Country": "San Marino",
+    "Date": "2032-08-03",
+    "Number of international students": 5382
+  },
+  {
+    "Country": "United States",
+    "Date": "2022-11-06",
+    "Number of international students": 6707
+  },
+  {
+    "Country": "Costa Rica",
+    "Date": "2037-08-05",
+    "Number of international students": 3584
+  },
+  {
+    "Country": "Niger",
+    "Date": "2035-07-28",
+    "Number of international students": 4922
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Date": "2033-02-15",
+    "Number of international students": 6566
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Date": "2037-01-10",
+    "Number of international students": 296
+  },
+  {
+    "Country": "Bangladesh",
+    "Date": "2026-06-12",
+    "Number of international students": 7154
+  },
+  {
+    "Country": "Mali",
+    "Date": "2006-11-07",
+    "Number of international students": 7851
+  },
+  {
+    "Country": "Morocco",
+    "Date": "2003-02-20",
+    "Number of international students": 2430
+  },
+  {
+    "Country": "Malaysia",
+    "Date": "2036-09-20",
+    "Number of international students": 2340
+  },
+  {
+    "Country": "Comoros",
+    "Date": "2018-01-05",
+    "Number of international students": 5439
+  },
+  {
+    "Country": "Poland",
+    "Date": "2041-12-05",
+    "Number of international students": 621
+  },
+  {
+    "Country": "Cuba",
+    "Date": "2029-02-15",
+    "Number of international students": 3705
+  },
+  {
+    "Country": "Latvia",
+    "Date": "2011-07-28",
+    "Number of international students": 1675
+  },
+  {
+    "Country": "Pakistan",
+    "Date": "2047-08-05",
+    "Number of international students": 5496
+  },
+  {
+    "Country": "Albania",
+    "Date": "2028-04-22",
+    "Number of international students": 3432
+  },
+  {
+    "Country": "Algeria",
+    "Date": "2003-12-09",
+    "Number of international students": 2156
+  },
+  {
+    "Country": "RWANDA",
+    "Date": "2049-11-08",
+    "Number of international students": 1804
+  },
+  {
+    "Country": "Libyan Arab Jamahiriya",
+    "Date": "2006-12-12",
+    "Number of international students": 3454
+  },
+  {
+    "Country": "Kenya",
+    "Date": "2048-09-09",
+    "Number of international students": 7011
+  },
+  {
+    "Country": "Swaziland",
+    "Date": "2045-05-27",
+    "Number of international students": 690
+  },
+  {
+    "Country": "Dominica",
+    "Date": "2019-03-31",
+    "Number of international students": 3360
+  },
+  {
+    "Country": "Ethiopia",
+    "Date": "2048-12-18",
+    "Number of international students": 4124
+  },
+  {
+    "Country": "American Samoa",
+    "Date": "2017-06-02",
+    "Number of international students": 7453
+  },
+  {
+    "Country": "Belgium",
+    "Date": "2035-12-06",
+    "Number of international students": 7255
+  },
+  {
+    "Country": "Colombia",
+    "Date": "2032-04-19",
+    "Number of international students": 207
+  },
+  {
+    "Country": "Thailand",
+    "Date": "2017-12-25",
+    "Number of international students": 756
+  },
+  {
+    "Country": "Netherlands Antilles",
+    "Date": "2046-07-12",
+    "Number of international students": 421
+  },
+  {
+    "Country": "RWANDA",
+    "Date": "2028-11-25",
+    "Number of international students": 6028
+  },
+  {
+    "Country": "Samoa",
+    "Date": "2026-04-25",
+    "Number of international students": 479
+  },
+  {
+    "Country": "Germany",
+    "Date": "2016-01-06",
+    "Number of international students": 6259
+  },
+  {
+    "Country": "Canada",
+    "Date": "2017-09-10",
+    "Number of international students": 242
+  },
+  {
+    "Country": "Gabon",
+    "Date": "2023-06-13",
+    "Number of international students": 6247
+  },
+  {
+    "Country": "Cape Verde",
+    "Date": "2027-05-07",
+    "Number of international students": 6582
+  },
+  {
+    "Country": "Lithuania",
+    "Date": "2004-05-16",
+    "Number of international students": 7459
+  },
+  {
+    "Country": "Mauritania",
+    "Date": "2032-11-19",
+    "Number of international students": 4920
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2037-08-05",
+    "Number of international students": 1538
+  },
+  {
+    "Country": "United Kingdom",
+    "Date": "2034-04-19",
+    "Number of international students": 467
+  },
+  {
+    "Country": "Swaziland",
+    "Date": "2018-02-11",
+    "Number of international students": 5600
+  },
+  {
+    "Country": "Gabon",
+    "Date": "2048-08-14",
+    "Number of international students": 4063
+  },
+  {
+    "Country": "Saint Helena",
+    "Date": "2046-08-04",
+    "Number of international students": 6660
+  },
+  {
+    "Country": "Armenia",
+    "Date": "2002-03-21",
+    "Number of international students": 3675
+  },
+  {
+    "Country": "French Southern Territories",
+    "Date": "2013-03-31",
+    "Number of international students": 4685
+  },
+  {
+    "Country": "Liechtenstein",
+    "Date": "2047-07-02",
+    "Number of international students": 1239
+  },
+  {
+    "Country": "Mexico",
+    "Date": "2044-12-14",
+    "Number of international students": 6766
+  },
+  {
+    "Country": "Viet Nam",
+    "Date": "2038-05-13",
+    "Number of international students": 7746
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2047-06-17",
+    "Number of international students": 3780
+  },
+  {
+    "Country": "Bangladesh",
+    "Date": "2022-01-15",
+    "Number of international students": 701
+  },
+  {
+    "Country": "San Marino",
+    "Date": "2005-09-28",
+    "Number of international students": 188
+  },
+  {
+    "Country": "Namibia",
+    "Date": "2009-11-19",
+    "Number of international students": 626
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Date": "2004-06-02",
+    "Number of international students": 637
+  },
+  {
+    "Country": "Libyan Arab Jamahiriya",
+    "Date": "2036-01-03",
+    "Number of international students": 6292
+  },
+  {
+    "Country": "Turkey",
+    "Date": "2029-11-13",
+    "Number of international students": 975
+  },
+  {
+    "Country": "Eritrea",
+    "Date": "2027-05-17",
+    "Number of international students": 2291
+  },
+  {
+    "Country": "Madagascar",
+    "Date": "2013-07-21",
+    "Number of international students": 2984
+  },
+  {
+    "Country": "French Southern Territories",
+    "Date": "2032-09-06",
+    "Number of international students": 4804
+  },
+  {
+    "Country": "Guyana",
+    "Date": "2036-10-06",
+    "Number of international students": 1063
+  },
+  {
+    "Country": "Hong Kong",
+    "Date": "2049-09-23",
+    "Number of international students": 4164
+  },
+  {
+    "Country": "Myanmar",
+    "Date": "2021-09-30",
+    "Number of international students": 7335
+  },
+  {
+    "Country": "Argentina",
+    "Date": "2037-09-02",
+    "Number of international students": 3992
+  },
+  {
+    "Country": "Namibia",
+    "Date": "2009-03-12",
+    "Number of international students": 3555
+  },
+  {
+    "Country": "Saint Lucia",
+    "Date": "2003-10-26",
+    "Number of international students": 5815
+  }
+]

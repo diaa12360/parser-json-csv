@@ -1,0 +1,13 @@
+/bin/
+/target/
+/artifacts/
+/overlays/
+/.idea/
+/.settings/
+/.flattened-pom.xml
+*.iml
+*.classpath
+*.project
+*.jar
+*.war
+*.class
